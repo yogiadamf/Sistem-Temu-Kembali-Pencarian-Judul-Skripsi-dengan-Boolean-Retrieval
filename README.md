@@ -9,3 +9,6 @@ Steps to run:
 3. Click on "Load Corpus"
 4. Enter the search query
 5. Click on "Search"
+
+![image](https://user-images.githubusercontent.com/76540894/131613357-4dc6609e-5287-4c5c-baa2-ec5f7b4088ba.png)
+
