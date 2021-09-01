@@ -1,0 +1,10 @@
+RANCANG BANGUN APLIKASI PENYEDIA JASA PEMBUATAN WEBSITE. Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Azizur Rohim, 3011510037 (2019)
+
+
+Abstract
+Product branding (peningkatan nilai produk) merupakan hal yang penting bagi para UKM dalam peningkatan penjualan mereka, namun product branding tidak dapat dilakukan melalui marketplace melainkan harus melalui website. Pada website dapat terdapat informasi terkait layanan dan produk yang diberikan oleh UKM lebih terperinci daripada apa yang termuat di marketplace. Namun meskipun website profile menjadi hal yang penting bagi UKM, mereka seringkali mengalami kendala dalam proses pembuatan yang lama dikarenakan negosiasi dengan vendor dalam penetapan fitur dan harga. Dalam penelitian ini penulis melakukan analisa kebutuhan melalui survey kepada 37 UKM dan wawancara kepada beberapa UKM. Dari survey diperoleh data bahwa UKM membutuhkan website profil untuk product branding terhadap usaha mereka dalam waktu yang relatif cepat, yaitu 1-2 bulan. Oleh sebab itu, dalam penelitian ini dibuat sebuah aplikasi yang diberi nama "BuatIn", yang dapat menyediakan berbagai macam template website berserta domain dan hosting yang dapat dipilih oleh para UKM sesuai dengan produk mereka. Aplikasi “BuatIn” akan memberikan beberapa pilihan pelayanan terkait perawatan konten dan jaminan untuk wesbite profil tersebut agar tetap dalam kondisi stabil.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.
+Ruktin Handayani, S.Kom., M.Kom.

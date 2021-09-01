@@ -1,0 +1,10 @@
+DIAGNOSIS PENYAKIT KARIES PADA GIGI DENGAN MENGGUNAKAN METODE NAÏVE BAYES. Undergraduate thesis, Universitas Internasional Semen Indonesia.Shintia Rosalinda Priyanto, 3011610048 (2020)
+
+
+Abstract
+Gigi Merupakan bagian alat pengunyahan pada sistem pencernaan dalam tubuh manusia. Masalah utama kesehatan gigi dan mulut adalah karies gigi, dimana penyakit gigi ini hampir sering diderita oleh penduduk Indonesia. Adapun kesehatan gigi dan mulut, Riskesdas (Riset Kesehatan Dasar) 2018 mencatat bahwa proporsi masalah gigi dan mulut sebesar 57,6% dan yang mendapatkan pelayanan dari tenaga medis gigi sebesar 10,2%. proporsi perilaku menyikat gigi dengan benar sebesar 2,8%. Penelitian ini adalah sebuah sistem pakar diagnosis karies gigi dengan menggunakan Naïve Bayes, dengan adanya data tentang gejala-gejala umum penyakit karies gigi. Tujuan penelitian ini diharapkan dapat membantu pakar (Drg) untuk mempermudah mengetahui gejala yang di derita pasien dengan cepat dan membantu untuk mempermudah penangan sesuai gejala, dan bagi pasien di harapkan dapat membantu berkonsultasi mengenai permasalahannya. Dalam penelitian ini terdapat 6 jenis penyakit dan 23 gejala penyakit gigi dan mulut dan sistem ini memiliki tingkat keberhasilan sebesar 93%.
+
+
+Dosen Pembimbing
+Ngatini, S.Si., M.Si
+Mohammad Arif Rasyidi, S.Kom., M.Sc.	

@@ -1,0 +1,10 @@
+ANALISIS KESUKSESAN SISTEM INFORMASI PADA APLIKASI MOBILE MYINDIHOME BERDASARKAN MODEL DELONE AND MCLEAN. Undergraduate thesis, Universitas Internasional Semen Indonesia.Ghaly Kurniawan Saraswari, 3021510014 (2019)
+
+
+Abstract
+Aplikasi myIndiHome adalah aplikasi yang dibangun oleh PT. Telekomunikasi Indonesia Tbk. yang digunakan untuk mempermudah penyampaian informasi, ide maupun penawaran terbaru bagi para pelanggannya. Tujuan dari penelitian ini adalah untuk mengetahui tingkat kesuksesan aplikasi myIndiHome. Sedangkan model yang digunakan adalah mode DeLone and McLean dengan variabel kualitas sistem (system quality), kualitas informasi (information quality), kualitas layanan (service quality), pengguna (use), kepuasan pengguna (user satisfaction) dan menggunakan tools SPSS (statistical product and service solution). Berdasarkan hasil penelitian yang sudah dilakukan menunjukkan bahwa kualitas informasi, kualitas layanan, penggunaan dan kepuasan pengguna berpengaruh positif terhadap manfaat bersih yang diterima individu atau organisasi. Kualitas sistem tidak berpengaruh terhadap manfaat bersih.
+
+
+Dosen Pembimbing
+Putri Amelia, S.T., M.T., M.Eng.
+Brina Miftahurrohmah, S.Si., M.Si.

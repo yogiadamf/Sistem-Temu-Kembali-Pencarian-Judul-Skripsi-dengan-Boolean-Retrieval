@@ -1,0 +1,10 @@
+PERAMALAN DATA HARGA SAHAM DENGAN MENGGUNAKAN PERBANDINGAN 3 METODE (STUDI KASUS : PT. SEMEN INDONESIA). Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Ramdan, 3021510026 (2019)
+
+
+Abstract
+Peran pasar modal atau saham dalam perekonomian Indonesia mulai melembaga. Saat ini pembelian saham menjadi salah satu pilihan modal yang sah, selain bentuk modal lainnya seperti uang, tanah, dan emas. Prospek investasi saham sebuah perusahaan di masa datang dapat menentukan banyaknya ketertarikan investor untuk menanamkan modal pada perusahaan. Untuk meningkatkan ketertarikan investor-investor baru ke dalam perusahaan, salah satu cara yang bisa dilakukan adalah dengan melakukan peramalan harga saham. Penelitian ini bertujuan untuk mencari metode peramalan terbaik dalam memperhitungkan harga saham dengan menggunakan perbandingan hasil peramalan 3 metode, menggunakan metode dari Mean Absolute Deviation (MAD), Mean Squared Error (MSE), Mean Absolute Percentage Error (MAPE).
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.	
+Catur Wulandari, S.Kom., M.Sc.

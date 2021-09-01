@@ -1,0 +1,9 @@
+PENYUSUNAN INSTRUMENTASI TATA KELOLA & AUDIT PELAYANAN JARINGAN KOMPUTER DI LINGKUP PEMERINTAH KABUPATEN GRESIK MENGGUNAKAN FRAMEWORK COBIT 4.1. Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Bayu Nugraha, 3021610034 (2020)
+
+
+Abstract
+Dinas Kominfo Pemerintah Kabupaten Gresik merupakan lembaga eselon 2A yang bertanggung jawab terhadap pengelolaan Teknologi Informasi di lingkungan Kabupaten Gresik. Namun, sejak tahun 2017 Pemerintah Kabupaten Gresik belum pernah dilakukan self assesment mengenai tingkat kematangan pelayanan jaringan komputer. Metode yang akan dilakukan dalam melakukan pendekatan kualitatif, Yaitu melalui observasi, Pembuatan form wawancara, Verifikasi, dan Validasi. Verifikasi dan validasi dilakukan pada pejabat berwenang terkait dengan tata kelola dan audit TI di Dinas Kominfo. Hasil penelitian yang dilakukan selama 6 bulan antara lain 1 kumpulan dokumen tata kelola TI yang berisi manual, kebijakan, prosedur, panduan, dan formulir. Luaran yang dihasilkan kedua adalah instrumen audit yang terdiri dari audit proses, audit ceklist, dan audit langkah. Luaran yang dihasilkan ketiga adalah pengukuran tingkat kematangan yaitu sebesar 2.25.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom

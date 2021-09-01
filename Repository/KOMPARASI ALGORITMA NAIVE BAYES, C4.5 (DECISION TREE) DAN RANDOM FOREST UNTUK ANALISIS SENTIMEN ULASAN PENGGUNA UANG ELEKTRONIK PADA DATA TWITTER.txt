@@ -1,0 +1,10 @@
+KOMPARASI ALGORITMA NAIVE BAYES, C4.5 (DECISION TREE) DAN RANDOM FOREST UNTUK ANALISIS SENTIMEN ULASAN PENGGUNA UANG ELEKTRONIK PADA DATA TWITTER. Undergraduate thesis, Universitas Internasional Semen Indonesia.Wavianur Putri Ittaqullah, 3011610053 (2020)
+
+
+Abstract
+Era digital saat ini mengharuskan masyarakat untuk cerdas dengan memanfaatkan kemudahan dan keefektifan dalam berinteraksi antara satu sama lain. Maka dari itu, muncullah beberapa inovasi digital seperti layanan uang elektronik. Banyak sekali layanan uang elektronik yang beredar di Indonesia, misalnya OVO, Gopay dan Dana. Sebagai layanan uang elektronik yang berbasis aplikasi, performa OVO, Gopay dan Dana pun dinilai oleh para penggunanya. Ulasan pengguna yang didapat dari Twitter dianalisa kemudian dijadikan masukan bagi perusahaan dalam menentukan pengembangan pada layanan mereka serta menjadi dasar pengguna untuk memilih menggunakan uang elektronik yang mana. Maka dari itu, perlu dilakukannya analisis sentimen. Algoritma yang digunakan dalam penelitian ini adalah Naïve Bayes, C4.5 (Decision Tree) dan Random Forest. Dengan teknik pengujian menggunakan algoritma 10-fold cross validation dan untuk algoritma C4.5 (Decision Tree) dan Random Forest menggunakan parameter tuning / best parameter untuk meningkatkan performanya dan untuk hasil akhir, Naïve bayes menghasilkan akurasi sebesar 0.79, presisi sebesar 0.66 dan recall sebesar 0.65 untuk C4.5 (Decision Tree) menghasilkan akurasi sebesar 0.78, presisi sebesar 0.66 dan recall sebesar 0.65. Sedangkan Random Forest menghasilkan akurasi sebesar 0.71, presisi sebesar 0.61 dan recall sebesar 0.58.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Lailatul Hidayah, S.Kom., M.S.

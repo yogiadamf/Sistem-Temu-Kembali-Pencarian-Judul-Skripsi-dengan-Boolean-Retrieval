@@ -1,0 +1,10 @@
+ESTIMASI BIAYA PERANGKAT LUNAK PADA ICT UNIVERSITAS XYZ MENGGUNAKAN METODE FUNCTION POINTS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Evi Imroatu Fadhillah, 3021510011 (2019)
+
+
+Abstract
+Estimasi biaya dalam suatu proyek memiliki peranan yang sangat penting. Umumnya dalam menyelenggarakan suatu proyek estimasi biaya digunakan untuk mengetahui seberapa besar biaya yang dibutuhkan untuk membangun suatu proyek. Tingkat akurasi dalam memperkirakan besar biaya yang harus dikeluarkan agar dapat meminimalisir kegagalan. Penelitian ini dilakukan menggunakan metode Function Points. Tahap penelitian dimulai dengan studi literatur, analisis tahapan metode function points, pembuatan kuesioner, wawancara ke stakeholder, analisis data dan perhitungan, konversi effort estimasi biaya. Dari tujuh perangkat lunak yang dikembangkan oleh ICT Universitas XYZ, maka nilai investasi yang harus dikeluarkan adalah sebesar Rp. 877,386,900 atau setara dengan effort 23,907 man/hour
+
+
+
+Dosen Pembimbing 
+Renny Sari Dewi, S.Kom., M.Kom.

@@ -1,0 +1,10 @@
+PENGEMBANGAN SISTEM KLASIFIKASI KATEGORI CITRA PRODUK FASHION SECARA OTOMATIS MENGGUNAKAN METODE CONVOLUTIONAL NEURAL NETWORK (CNN). Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Husein Abdillah, 3011510055 (2020)
+
+
+Abstract
+Dalam industri fashion, memperoleh analisis visual dari keseluruhan produksi adalah aspek kunci, baik dalam mengembangkan strategi pemasaran maupun untuk membantu perancangan dalam aliran kerja kreatif produk-produk baru. Kategorisasi produk fashion, sampai sekarang, dilakukan secara manual. Klasifikasi manual merupakan tugas yang rawan kesalahan yang dapat menyebabkan hasil yang salah. Pada era digitral, perkembangan pembelajaran mesin atau machine learning dan metodologi pembelajaran mendalam atau deep learning menjadikan sebagian besar data citra dapat di proses dan dianalisis untuk melakukan berbagai prediksi dan klasifikasi. Deep learning dapat diterapkan di berbagai bidang bisnis untuk meningkatkan kinerja yang lebih baik. Salah satunya bisnis yang berhubungan dengan fashion yang sudah mulai menerapkan teknik deep learning pada e-commerce seperti pengenalan citra produk, mesin pencarian produk, dan rekomendasi produk untuk customer. Pada penelitian ini, kami mengangkat metode convolutional neural network (CNN) untuk mengklasifikasikan kategori citra produk fashion. Penerapan metode CNN membantu untuk mengenali sebuah objek pada citra dengan memberikan algoritma pembelajaran dengan banyak contoh ruang kelas dan membedakan masing – masing kelas
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Ruktin Handayani, S.Kom., M.Kom.

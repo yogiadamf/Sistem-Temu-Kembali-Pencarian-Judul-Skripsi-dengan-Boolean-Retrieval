@@ -1,0 +1,10 @@
+PERANCANGAN SISTEM INFORMASI PENELITIAN DAN PENGABDIAN MASYARAKAT LPPM UISI BERBASIS WEBSITE MENGGUNAKAN METODE PROTOTYPING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Ayu Annisa Fitri, 3011510010 (2019)
+
+
+Abstract
+Lembaga Penelitian dan Pengabdian Masyarakat berfungsi mengelola semua kegiatan penelitian dan pengabdian kepada masyarakat yang dilaksanakan oleh dosen. Kegiatan ini mendukung pelaksanaan Tri Darma Perguruan Tinggi di Universitas, khususnya darma penelitian dan darma pengabdian masyarakat. Selama ini kegiatan yang ada pada LPPM dalam pengelolaan data penelitian dan pengabdian masyarakat masih dikelola secara manual. Pencatatan data dilakukan pada banyak file yang berbeda dan disimpan pada tempat yang berbeda. Disamping itu pengelolaan data penelitian dan pengabdian masyarakat menjadi tidak terjamin serta keterlambatan akan informasi, sehingga menyebabkan permasalahan waktu dan tingkat validasi data penelitian dan pengabdian masyarakat UISI. Dengan adanya permasalahan tersebut peneliti bertujuan untuk membuat sistem informasi LPPM UISI berbasis Website. aplikasi ini dibangun dengan menerapkan metode SDLC (System Development Life Cycle) dengan model Prototype dan dibuat menggunakan bahasa pemrograman PHP, dan database MySQL.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Ruktin Handayani, S.Kom., M.Kom.

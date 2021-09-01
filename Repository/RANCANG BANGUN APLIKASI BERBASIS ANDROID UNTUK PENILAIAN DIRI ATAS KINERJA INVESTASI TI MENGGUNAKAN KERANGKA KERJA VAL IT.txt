@@ -1,0 +1,9 @@
+RANCANG BANGUN APLIKASI BERBASIS ANDROID UNTUK PENILAIAN DIRI ATAS KINERJA INVESTASI TI MENGGUNAKAN KERANGKA KERJA VAL IT. Undergraduate thesis, Universitas Internasional Semen Indonesia.Dhya Aminaturrahmah, 3021710015 (2021)
+
+
+Abstract
+Perhitungan Maturity Level Assessment hingga saat ini masih menggunakan cara manual karena tidak ada aplikasi yang dapat memprosesnya secara otomatis, hal ini menyebabkan perlu waktu lebih banyak untuk calon investor sebelum mengambil keputusan pada sebuah program investasi di sektor TI. Dari masalah yang sudah dijelaskan, maka dibutuhkan sebuah perangkat lunak untuk mengukur kinerja TI berbasis VAL IT yang diharapkan dapat membantu sebuah organisasi atau calon investor. VAL IT yang akan digunakan merupakan versi 2.0 yang memiliki fokus pada bidang keuangan dan investasi dengan 3 domain yang dimiliki, yaitu Value Governance, Portofolio Management, Investment Management. Perangkat lunak atau aplikasi yang akan dikembangkan, dirancang modelnya menggunakan salah satu diagram Unified Modeling Language (UML), use case. Tahapan selanjutnya adalah implementasi menggunakan RAD tools (Kodular) yang memiliki fitur block code, sehingga tidak perlu dilakukan coding dari awal dalam masa pengerjaan pengembangan aplikasi. Kodular juga merupakan open source yang membuat pengembang/penelitinya menjadi lebih terbantu lagi. Keluaran dari penelitian ini nantinya berupa file Android package (.apk) yang diharapkan dapat membantu organisasi untuk mengambil keputusan dalam evaluasi dan seleksi investasi pada bidang TI.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom., MCE.	

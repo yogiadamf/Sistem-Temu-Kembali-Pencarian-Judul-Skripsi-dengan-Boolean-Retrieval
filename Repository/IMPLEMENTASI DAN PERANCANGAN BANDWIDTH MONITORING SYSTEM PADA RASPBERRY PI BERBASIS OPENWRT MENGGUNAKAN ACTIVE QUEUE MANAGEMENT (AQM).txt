@@ -1,0 +1,10 @@
+IMPLEMENTASI DAN PERANCANGAN BANDWIDTH MONITORING SYSTEM PADA RASPBERRY PI BERBASIS OPENWRT MENGGUNAKAN ACTIVE QUEUE MANAGEMENT (AQM). Undergraduate thesis, Universitas Internasional Semen Indonesia.Dhito Aji Tri Prabowo, 3021610016 (2020)
+
+
+Abstract
+Berkembangnya jaringan intranet dan jaringan internet yang semakin besar membutuhkan adanya suatu langkah untuk mengetahui berapa kebutuhan bandwidth yang diperlukan dengan cara mengidentifikasi penggunaan bandwidth dalam harian, bulanan atau tahunan, sehingga organisasi, instansi, UKM atau komunitas tertentu dapat mengetahui besarnya sewa bandwidth yang tepat pada penyedia Internet Service Provider (ISP). Dalam melakukan browsing, upload dan download di internet terkadang kita merasakan akses internet terlalu lambat. Hal ini tidak bisa dihindari mengingat banyaknya jumlah pengguna yang terkoneksi dalam kesatuan jaringan menginginkan koneksi ke internet tidak diimbangi dengan ketersediaan cukupnya bandwidth yang tersedia. Akibatnya Banyak antrian paket pada buffer menyebabkan waktu penanganan paket menjadi sangat lama. Jika hal tersebut terjadi, maka dapat menyebabkan latency menjadi tinggi. Fenomena ini dikenal dengan istilah bufferbloat. Memanfaatkan Raspberry Pi dengan sistem operasi OpenWRT akan dirancang sebuah aplikasi Bandwidth Monitoring System dan mengatasi bufferbloat dengan metode Activate Queue Management (AQM). Hasil dari penelitian ini adalah dapat memberikan informasi bandwidth load dalam bentuk dashboard graph secara real-time, traffic, daftar pengguna jaringan, penggunaan data (Upload dan Download) secara rinci untuk setiap masing-masing pengguna, laporan penggunaan data, dan pengalokasian bandwidth dengan AQM untuk mencegah bufferbloat pada jaringan.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.
+Catur Wulandari, S.Kom., M.Sc.

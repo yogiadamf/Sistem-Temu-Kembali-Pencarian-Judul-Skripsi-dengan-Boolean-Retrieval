@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PROYEK PENGEMBANGAN PERANGKAT LUNAK IBA (ISLAMIC BANKING APPLICATION) DENGAN MENGGUNAKAN METODE FUNCTION POINTS (FP) DAN USE CASE POINTS (UCP). Undergraduate thesis, Universitas Internasional Semen Indonesia.Siti Nur Aisah, 3021610049 (2020) 
+
+
+Abstract
+Seiring dengan perkembangan era digital saat ini, beragam teknologi informasi sangat dibutuhkan bagi perusahaan untuk meningkatkan efektivitas. Sehingga beberapa perusahan berlomba-lomba untuk menciptakan perangkat lunak. Beberapa tahapan dalam pengembangan perangkat lunak sering mengalami kegagalan dalam estimasi waktu, sumber daya manusia hingga estimasi biaya. Permasalahan yang sering terjadi dalam proses estimasi adalah over-estimates dan under-estimates. Oleh karena itu, estimasi biaya perangkat lunak merupakan proses yang sangat penting dalam pengembangan sebuah perangkat lunak. Ada beberapa metode estimasi biaya dalam proyek pengembangan perangkat lunak. Keseluruhan setiap metode memiliki kelebihan dan kekurangan masing-masing. Estimasi biaya yang dilakukan dalam penelitian adalah metode Function Points dan Use Case Pointss. Tahapan estimasi biaya dimulai dengan studi literatur, pengumpulan data, analisa tahapan metode Function Points dan Use Case Pointss, perhitungan Function Points dan Use Case Pointss, distribusi effort Function Points dan Use Case Points ke aktivitas. Kata Kunci: Estimasi Biaya, Perangkat Lunak, Function Points, Use Case Points
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom

@@ -1,0 +1,10 @@
+PERAMALAN DERET WAKTU JUMLAH PENDUDUK KABUPATEN GRESIK MENGGUNAKAN METODE PEMULUSAN EKSPONENSIAL GANDA DARI BROWN. Undergraduate thesis, Universitas Internasional Semen Indonesia.Alvin Hardian, 3021610007 (2020) 
+
+
+Abstract
+Petumbuhan penduduk merupakan keseimbangan dinamis dimana ada pertambahan dan pengurangan jumlah penduduk pada suatu daerah. Kabupaten Gresik salah satu kabupaten yang mengalami peningkatan pertumbuhan penduduk setiap tahun. Sehingga dibutuhkan penelitian untuk melakukan suatu peramalan jumlah penduduk guna mempersiapkan kebutuhan penduduk di masa mendatang. Peramalan dilakukan menggunakan Metode Pemulusan Eksponensial Ganda dari Brown, pemulusannya dilakukan dua kali dengan pola data trend dan menggunakan satu parameter. Nilai parameter terbaik adalah yang memiliki nilai Mean Absolute Percentage Error (MAPE) galat terkecil. Berdasarkan hasil analisis yang dilakukan, nilai parameter terbaik yaitu dengan nilai MAPE sebesar 0,78%. Dengan bentuk persamaan 툠छ 툠 छ atau 툠छ 慸ࡽࡽ 툠 慸慸 छ , sehingga peramalan jumlah penduduk Kabupaten Gresik di masa mendatang adalah: pada tahun 2019 adalah 1313292 Jiwa, pada tahun 2020 adalah 1327512 Jiwa, pada tahun 2021 adalah 1341733 Jiwa, pada tahun 2022 adalah 1355954 dan seterusnya sampai tahun 2030 adalah 1469719 Jiwa.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.
+Brina Muftahurrohmah, S.Si., M.Si.	

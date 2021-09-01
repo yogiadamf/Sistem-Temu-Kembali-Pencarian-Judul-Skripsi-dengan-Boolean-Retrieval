@@ -1,0 +1,9 @@
+PENGUKURAN TINGKAT KEMATANGAN DAN KEPATUHAN SISTEM INFORMASI AKADEMIK BERDASARKAN COBIT 4.1. Undergraduate thesis, Universitas Internasional Semen Indonesia.Silvia Rahma Amelia, 3021510030 (2019) 
+
+
+Abstract
+Universitas XYZ merupakan instansi pendidikan yang telah menerapkan TI pada Sistem Informasi Akademik (SIAKAD) dalam proses operasional. Walupun telah digunakan sejak 2015. Namun, belum dilaksanakan pengukuran tingkat kematangan dan kepatuhan. Padahal, Keberadaan sistem informasi ini perlu diawasi maupun dipelihara dengan melakukan audit sistem informasi, agar keselarasan sistem informasi pada instansi sesuai dengan tujuan bisnis instansi. Berdasarkan latar belakang tersebut dilakukan penelitian audit SIAKAD pada aspek menentukan dan mengelola tingkat layanan (Deliver and Support 1) berdasarkan Framework COBIT 4.1. Berdasarkan hasil perhitungan tingkat kematangan diperoleh rata-rata indeks level 2.59 (2)/ Level Repeatable. Artinya SIAKAD Universitas XYZ telah pada tahap memiliki pola manajemen berdasarkan pengalaman proses yang telah berulang. Tetapi, pola tersebut belum memiliki standarisasi dalam dokumen resmi yang telah disahkan. Sedangkan, berdasarkan perhitungan tingkat kepatuhan diperoleh nilai 4.3%. Artinya tingkat kepatuhan dalam kerangka manajemen tingkat layanan SIAKAD Partially Achieved.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.

@@ -1,0 +1,11 @@
+IMPLEMENTASI TEKNOLOGI BLUETOOTH LOW ENERGY DAN METODE TRILATERASI UNTUK PENCARIAN RUTE INDOOR. Undergraduate thesis, Universitas Internasional Semen Indonesia.Bahri Rizaldi, 3011510013 (2019) 
+
+
+Abstract
+Dewasa ini pencarian rute dari lokasi asal ke lokasi tujuan semakin dimudahkan dengan adanya Global Positioning System (GPS). Dengan menggunakan aplikasi Maps di smartphone, masyarakat dapat mengetahui lokasi saat ini dan mencari arah atau rute ke lokasi tujuan. Permasalahan terjadi apabila pengguna berada di dalam ruangan tertutup atau di dalam gedung, tingkat akurasi GPS akan menurun sebab sinyal satelit yang dikirimkan tidak dapat menembus benda-benda tebal seperti tembok, beton, dan lain sebagainya. Hal ini mengakibatkan pencarian rute hanya terbatas pada pencarian di luar ruangan atau gedung, sehingga permasalahan seperti pencarian rute antar ruangan di dalam gedung tidak dapat diselesaikan dengan menggunakan GPS. Penelitian ini akan difokuskan pada masalah pencarian rute di dalam gedung dengan menggunakan teknologi Bluetooth Low Energy dan metode Trilaterasi. Algoritma Dijkstra digunakan untuk mencari rute terpendek dari lokasi pengguna ke lokasi tujuan. Tahapan metode yang dilakukan di penelitian ini mulai dari studi kepustakaan, pemetaan terhadap gedung yang akan digunakan sebagai area pengujian, pembuatan sistem, dan pengujian unjuk kerja sistem.
+
+
+Dosen Pembimbing
+Laitatul Hidayah, S.Kom., M.S.
+Doni Setio Pambudi, S.Kom., M.Kom
+Taufiqotul Bariyah, S.Kom., M.IM.

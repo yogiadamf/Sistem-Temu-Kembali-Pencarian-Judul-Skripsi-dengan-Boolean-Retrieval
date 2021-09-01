@@ -1,0 +1,10 @@
+PENERAPAN METODE SUPPORT VECTOR MACHINE DALAM MERAMALKAN PENJUALAN PRODUK PT.XYZ. Undergraduate thesis, Universitas Internasional Semen Indonesia.Ronie Febriansah, 3021610044 (2020) 
+
+
+Abstract
+PT. XYZ merupakan perusahaan yang memproduksi dan memasarkan produk kayu berkualitas tinggi. Selain itu, PT. XYZ selalu berinovasi untuk menciptakan berbagai macam produk kayu serta mengoptimalkan penggunaan bahan baku kayu, sehingga PT. XYZ tidak hanya menciptakan produk utama tetapi produk turunan dari produk utama. Penjualan produk pada PT. XYZ setiap bulan mengalami naik-turun, hal ini disebabkan oleh kebutuhan konsumen yang berbeda disetiap bulan. Dengan fenomena naik-turunnya penjualan produk PT. XYZ, otomatis mempengaruhi pembelian stok bahan mentah dan juga proses produksi. Pada penelitian tugas akhir ini, penulis akan melakukan peramalan pada sektor penjualan yang ada di PT. XYZ dengan menggunakan metode Support Vector Machine (SVM). Hasil dari penelitian ini diharapkan dapat digunakan oleh PT. XYZ sebagai informasi agar dapat melakukan langkah-langkah antisipasi di sektor penjualan, sektor pengadaan, dan sektor produksi. Selain itu, PT. XYZ dapat mengatur pengadaan bahan baku dan produksi ketika penjualan salah satu produk mengalami penurunan.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Brina Miftahurrohmah, S.Si., M.Si.

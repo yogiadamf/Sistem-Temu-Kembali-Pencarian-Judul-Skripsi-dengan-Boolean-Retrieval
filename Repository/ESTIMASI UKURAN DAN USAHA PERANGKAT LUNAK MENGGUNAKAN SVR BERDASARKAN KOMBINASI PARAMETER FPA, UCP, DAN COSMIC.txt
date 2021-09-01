@@ -1,0 +1,10 @@
+ESTIMASI UKURAN DAN USAHA PERANGKAT LUNAK MENGGUNAKAN SVR BERDASARKAN KOMBINASI PARAMETER FPA, UCP, DAN COSMIC. Undergraduate thesis, Universitas Internasional Semen Indonesia.Nur Alfiyah Miftakhul Jannah, 3021710043 (2021)
+
+
+Abstract
+Perencanaan merupakan suatu kondisi penting dalam mengestimasikan sumber daya yang dibutuhkan untuk suatu proyek. Pentingnya dalam melakukan perencanaan proyek yang baik adalah salah satu penentu keberhasilan proyek pengembangan perangkat lunak yaitu dengan melakukan pengaturan sumber daya agar tidak terjadi over-estimates dan under-estimates. Untuk mengatasi permasalahan tersebut estimasi ukuran dan usaha dituntut untuk dapat menghasilkan tingkat akurasi perhitungan dan penggunaan metode yang tepat dalam proyek pengembangan perangkat lunak agar hasil yang dicapai sesuai dengan yang diinginkan, yakni tepat waktu, sesuai biaya dan terpenuhinya standar kualitas produk perangkat lunak. Beberapa metode yang telah digunakan dalam estimasi ukuran dan usaha pengembangan perangkat lunak diantaranya function points analysis (FPA), use case points (UCP), Common Software Measurement International Consortium (COSMIC), dan beberapa metode machine learning juga diadopsi dalam mengestimasi ukuran perangkat lunak. Estimasi ukuran dan usaha pada penelitian ini mengunakan metode support vector regression dengan kombinasi parameter function points analysis, use case points, dan COSMIC. Hasil dari penelitian menunjukkan bahwa metode support vector regression merupakan metode yang menghasilkan nilai effort paling mendekati dengan actual effort. Keakurasian metode SVR untuk melakukan estimasi ukuran dan usaha pada pengembangan perangkat lunak menghasilkan, tingkat kesalahan yang paling kecil dibandingkan dengan metode function points analysis, use case points, dan COSMIC yaitu sebesar 0,00004500717.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom., MCE
+Brina Miftahurrohmah, S.Si., M.Si., MCE.

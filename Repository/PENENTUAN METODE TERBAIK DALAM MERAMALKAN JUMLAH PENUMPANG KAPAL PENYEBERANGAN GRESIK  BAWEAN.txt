@@ -1,0 +1,10 @@
+PENENTUAN METODE TERBAIK DALAM MERAMALKAN JUMLAH PENUMPANG KAPAL PENYEBERANGAN GRESIK - BAWEAN. Undergraduate thesis, Universitas Internasional Semen Indonesia.Fanny Ibnu Najib, 3021610021 (2020)
+
+
+Abstract
+Indonesia disebut juga sebagai Negara Maritim dikarenakan luas perairan lebih besar dibandingkan luas daratan, maka dari itu di setiap pulau hampir terdapat pelabuhan. Terminal pelabuhan Gresik yang diperuntukkan untuk terminal penumpang menaungi beberapa perusahaan kapal antara lain yaitu Gili Iyang, Express Bahari, Natuna dan Blue Sea Jet dengan tujuan pulau Bawean atau pelabuhan Sangkapura Bawean. Pulau Bawean ialah pulau yang terletak di sebelah utara provinsi Jawa Timur ataupun lebih tepatnya utara kota Gresik dengan jarak 120 kilometer. Terdiri dari dua kecamatan yaitu kecamatan Sangkapura serta kecamatan Tambak. Penelitian ini akan menganalisis bagaimana karakteristik data penumpang kapal penyeberangan Gresik dan Bawean selama Januari 2018 hingga Desember 2019 jumlah penumpang dari tahun ke tahun cenderung fluktuatif, keadaan yang tidak tentu sehingga kesulitan dalam keputusan kebijakan, untuk membantu perihal tersebut informasi bisa dianalisis beberapa metode yang dapat digunakan dalam peramalan ini. Untuk mengetahui besarnya tingkat keakuratan ramalan yang dihasilkan, sehingga penulis mencoba menganalisa perbandingan peramalan memakai metode ARIMA, SARIMA, dan SVM. dengan menghitung kesalahan ramalan antara lain, Mean Squared Error (MSE) dan Mean Absolute Percentage Error (MAPE). Metode terbaik dari data jumlah penumpang Pelabuhan Gresik dan Bawean adalah model Support Vector Machine.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Brina Miftahurrohmah, S.Si., M.Si.

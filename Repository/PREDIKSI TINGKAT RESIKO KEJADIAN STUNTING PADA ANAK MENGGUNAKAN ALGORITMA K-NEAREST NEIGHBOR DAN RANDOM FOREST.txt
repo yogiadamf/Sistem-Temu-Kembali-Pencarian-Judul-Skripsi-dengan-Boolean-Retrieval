@@ -1,0 +1,10 @@
+PREDIKSI TINGKAT RESIKO KEJADIAN STUNTING PADA ANAK MENGGUNAKAN ALGORITMA K-NEAREST NEIGHBOR DAN RANDOM FOREST. Undergraduate thesis, Universitas Internasional Semen Indonesia.Syahrul Imanudin, 3011610049 (2020)
+
+
+Abstract
+Stunting (kerdil) adalah kondisi dimana anak memiliki panjang atau tinggi badan yang kurang jika dibandingkan dengan umur pada umumnya karena disebabkan oleh banyak faktor. Tingginya stunting di Indonesia membutuhkan sebuah mekanisme monitoring untuk memprediksi dan mengontrol jumlah anak yang menderita stunting di Indonesia. Monitoring dapat dilakukan dengan membuat suatu model algoritma prediksi seorang anak terkena stunting sehingga jika anak terdeteksi memiliki resiko yang tinggi maka dapat segera ditangani. Pada penelitian ini akan dilakukan pembuatan model prediksi kejadian stunting pada anak menggunakan algoritma klasifikasi machine learning K-Nearest Neighbor (KNN) dan Random Forest dengan mengklasifikasikan tingkat resiko stunting pada anak termasuk ke tingkat rendah, sedang atau tinggi. Nilai akurasi terbaik yang diperoleh adalah pada algoritma Random Forest yaitu sebesar 73% dengan parameter tuning menggunakan grid search. Berdasarkan feature selection yang telah dilakukan menunjukkan bahwa faktor yang paling berpengaruh terhadap terjadinya stunting yaitu jenis kelamin anak, berat badan lahir anak, pekerjaan orang tua, tinggi ayah, pendidikan terakhir ibu, tinggi badan lahir anak, tinggi ibu, pendidikan terakhir ayah, usia, berat badan anak sekarang.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.	
+Ngatini, S.Si., M.Si.

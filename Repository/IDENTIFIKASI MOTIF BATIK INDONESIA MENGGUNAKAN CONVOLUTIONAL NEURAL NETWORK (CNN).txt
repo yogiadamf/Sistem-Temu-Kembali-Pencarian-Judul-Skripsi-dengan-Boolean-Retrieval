@@ -1,0 +1,10 @@
+IDENTIFIKASI MOTIF BATIK INDONESIA MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN). Undergraduate thesis, Universitas Internasional Semen Indonesia.Affizah Ristiana, 3011510003 (2019)
+
+
+Abstract
+Indonesia merupakan bangsa yang terdiri dari berbagai etnik dan memiliki latar belakang budaya yang beraneka ragam. Salah satu hasil kebudayaan masyarakat Indonesia adalah batik. Ada ribuan motif batik yang unik serta menarik yang telah diciptakan oleh para pengrajin dan seniman di setiap daerah. Melihat begitu banyaknya macam motif batik di Indonesia, tentunya bukanlah hal yang mudah untuk mengenali dan membedakan antara satu motif dengan motif lainnya. Sehingga, dibutuhkan suatu pendekatan dalam penyelesaian permasalan ini. Salah satu pendekatan dalam pengenalan suatu gambar adalah menggunakan metode Convolutional Neural Network. Metode ini salah satu metode Deep learning yang dapat digunakan untuk mengenali dan mengklasifikasi sebuah objek pada sebuah citra digital. Berdasarkan hasil pembahasan didapatkan tingkat akurasi sebesar 49%, presisi 44%, recall 49%, dan f-measure 45% pada proses testing. Sehingga, performa dari model yang dibuat pada penelitian ini dapat dikatakan bahwa penggunaan metode Covolutional Neural Network (CNN) menggunakan autokeras kurang optimal dalam mengidentifikasi motif batik. Sebab masih banyak data citra yang tidak dapat di klasifikasikan dengan benar sesuai dengan kelas atau labelnya.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Taufiqotul Bariyah, S.Kom., M.IM.

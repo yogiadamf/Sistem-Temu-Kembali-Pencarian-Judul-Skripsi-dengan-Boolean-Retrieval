@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PENGEMBANGAN PERANGKAT LUNAK PADA APLIKASI POSYANDU-GO DAN E-OFFICE DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN GRESIK MENGGUNAKAN METODE FUNCTION POINTS (FP). Undergraduate thesis, Universitas Internasional Semen Indonesia.Firdayatul Dewi Sartika, 3021610024 (2020)
+
+
+Abstract
+Seiring perkembangan teknologi pada era saat ini, suatu organisasi harus melakukan kegiatan operasional menggunakan teknologi informasi agar dapat terus bersaing. Salah satu teknologi informasi yang perlu dikembangkan adalah perangkat lunak. Permasalahan yang sering dihadapi dalam proyek pembuatan ataupun pengembangan perangkat lunak yaitu under estimate yang berarti estimasi yang kurang over estimate yang berarti estimasi yang berlebihan. Oleh karena itu, estimasi biaya sangat diperlukan untuk meminimalisir terjadinya kegagalan tersebut. Tujuan dari penelitian ini yaitu untuk mengetahui apa saja sumber daya dan jumlah estimasi biaya beserta effort yang dibutuhkan oleh Dinas Komunikasi dan Informatika (DISKOMINFO) Kabupaten Gresik dalam proyek pengembangan perangkat lunak Posyandu-GO dan E-Office. Anilisis perhitungan biaya nantinya akan didasarkan pada perhitungan menggunakan metode Function Points (FP). Tahap penelitian dimulai dari studi literatur, pengumpulan data, analisis tahapan metode Function Points, perhitungan Function Points, konversi effort estimasi biaya.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom.,M.Kom	

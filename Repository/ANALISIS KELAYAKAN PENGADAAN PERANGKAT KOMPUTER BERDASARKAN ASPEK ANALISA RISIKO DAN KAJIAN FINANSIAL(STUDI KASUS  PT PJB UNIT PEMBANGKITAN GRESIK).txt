@@ -1,0 +1,10 @@
+ANALISIS KELAYAKAN PENGADAAN PERANGKAT KOMPUTER BERDASARKAN ASPEK ANALISA RISIKO DAN KAJIAN FINANSIAL(STUDI KASUS : PT PJB UNIT PEMBANGKITAN GRESIK). Undergraduate thesis, Universitas Internasional Semen Indonesia.Yuvan Ramadhan, 3021610054 (2020)
+
+
+Abstract
+Penilitian ini membahas tentang analisa kelayakan dengan mengkaji beberapa aspek seperti aspek analisa risiko dan kajian finansial pada perangkat komputer yang digunakan untuk kegiatan opersional karyawan PT PJB Unit Pembangkitan Gresik. Pada proses penelitian, akan dibandingkan dua alternatif pengadaan yaitu pembelian (procure) dan alih daya (outsource) yang tentunya memiliki kelemahan dan kelebihan tersendiri. Hasil kajian tersebut digunakan menjadi dasar pengambilan keputusan dalam menentukan alternatif pengadaan yang layak dilaksanakan. Dalam mengkaji aspek-aspek tersebut digunakan metode yang dapat menyajikan hasil dari analisa dari setiap aspek yang tepat. Aspek Analisa risiko menggunakan analisa berdasarkan standar framework ISO 31000:2018 terkait manajemen risiko. Proses analisa kelayakan risko diawali dari identifikasi risiko, penentuan skala risiko, penilaian risiko sampai usulan rekomendasi mitigasi risiko. Pada aspek kelayakan finansial menggunakan metode analisa aliran biaya atau Life-Cycle Cost Analysis (LCCA) yang menyajikan rincian pengeluaran selama siklus hidup perangkat komputer. Pengambilan keputusan pada aspek kajian finansial dihitung berdaskarkan Net Present Value (NPV) minimum.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt
+Catur Wulandari, S.Kom., M.Sc.

@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PENGEMBANGAN PERANGKAT LUNAK MENGGUNAKAN METODE FUNCTION POINTS PADA BADAN PENANGGULANGAN BENCANA DAERAH (BPBD) KABUPATEN GRESIK. Undergraduate thesis, Universitas Internasional Semen Indonesia.Sri Maulidiyah, 3021610050 (2020) 
+
+
+Abstract
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Gresik memiliki beberapa software yang telah digunakan untuk memperlancar kegiatan dalam pekerjaannya. Namun proses pengembangan perangkat lunak pada BPBD seringkali terpaku pada vendor dan belum adanya perhitungan estimasi biaya yang lengkap. Dengan demikian, BPBD membutuhkan pengukuran estimasi effort dan biaya pada perangkat lunak untuk mengetahui nilai akurasi yang akurat. Penelitian ini bertujuan untuk menghasilkan perkiraan kebutuhan biaya, estimasi waktu pengerjaan, dan sumber daya manusia agar hasil yang dicapai sesuai dengan yang diperkirakan. Metode yang digunakan adalah perhitungan yang berorientasi pada fungsi atau biasa disebut Function Points (FP). Metode ini merupakan teknik pengukuran estimasi effort dan estimasi biaya dengan model perhitungan berdasarkan 5 komponen utama dan 14 faktor kompleksitas dari fungsi yang ada di sebuah software. Hasil dari penelitian ini adalah nilai estimasi effort dan jumlah biaya yang harus dikeluarkan oleh Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Gresik dari 2 (dua) aplikasi yang dikembangkan yaitu sebesar Rp. 119.618.710 dengan menghasilkan effort senilai 2.863,93 man/hour.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.kom., M.Kom.	

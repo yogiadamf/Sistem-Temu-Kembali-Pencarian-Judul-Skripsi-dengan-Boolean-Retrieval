@@ -1,0 +1,10 @@
+IMPLEMENTASI KUNCI PINTU RUMAH OTOMATIS BERBASIS INTERNET OF THINGS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Putra Agung Hardianto, 3011510040 (2019)
+
+
+Abstract
+Tingkat kriminalitas di Indonesia mengalami peningkatan dari tahun ke tahun. Tindak kejahatan pencurian salah satu jenis kejahatan yang membuat resah masyarakat. Pencurian terjadi dikarenakan tingkat keamanan pada sebuah rumah yang sangat rendah, terutama pada pintu yang saat ini masih menggunakan kunci konvensioal. Pencuri dengan sangat mudah menggandakan atau membongkar kunci rumah. Melalui penelitian ini, penulis menawarkan sebuah sistem kunci otomatis pada pintu rumah menggunakan teknologi Internet of Things dengan fitur aplikasi mobile sebagai kontrol jarak jauh dan tag rfid untuk menggantikan kunci konvensional. Pembuatan prototype kunci pintu otomatis ini terdiri dari tiga blok sistem yaitu blok input, blok proses, dan blok output. Blok input terdiri dari tag card rfid, blok proses terdiri dari mikrokontroler wemos D1, dan blok output terdiri dari relay. Sistem ini juga dilengkapi dengan aplikasi web yang diperuntukkan bagi pihak pemilik rumah atau admin untuk mengelola data pengguna tag rfid. Aplikasi yang dikembangkan diharapkan dapat meningkatkan kenyamanan serta keamanan pada rumah dan dapat dibuktikan melalui User experience testing. Hasil pengujian dan pengukuran diperoleh bahwa Prototype kunci pintu otomatis mampu mengontrol pintu dari jarak jauh menggunakan aplikasi mobile dan dapat mengelola pengguna tag rfid melalui aplikasi web.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.
+Ngatini, S.Si., M.Si.

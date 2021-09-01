@@ -1,0 +1,10 @@
+PERAMALAN PENGGUNAAN LISTRIK UNTUK PELANGGAN PLN PASCABAYAR RAYON LAMONGAN AREA BOJONEGORO DISTRIBUSI JAWA TIMUR DENGAN METODE ARIMA (Autoregressive Integrated Moving Average). Undergraduate thesis, Universitas Internasional Semen IndonesiaKhoiriyah Asri Safitri, 3011510030 (2019)
+
+
+Abstract
+PT. PLN (Persero) Rayon Lamongan Area Bojonegoro Distribusi Jawa Timur merupakan salah satu cabang PLN yang mempunyai tugas mendistribusikan energi listrik dari gardu induk ke pelanggan melalui jaringan tegangan menengah dan tegangan rendah. Terdapat dua macam meteran listrik yang digunakan oleh PLN yaitu, prabayar dan pascabayar. Proses pencatatan listrik PLN adalah kegiatan yang sangat penting. Permasalahan yang sering dialami petugas adalah pada saat proses pencatatan ketika rumah pelanggan kosong dan pagar terkunci, sehingga petugas tidak dapat melakukan pengecekan jumlah pemakaian kWh listrik. Akibatnya jumlah kWh listrik pelanggan yang didatangi pada bulan tersebut kosong. Untuk mengatasi masalah tersebut petugas mengambil acuan dari data bulan sebelumnya. Namun hal itu dapat menimbulkan kerugian dan ketidakakuratan jumlah pemakaian kWh listrik bagi pihak PLN atau pelanggan PLN. Sehingga untuk mengatasi hal tersebut dilakukan penelitian tentang peramalan penggunaan kWh listrik untuk membantu dalam menentukan pemakaian kWh listrik pelanggan kedepannya berdasarkan data di beberapa bulan sebelumnya. Penelitian ini dilakukan dengan menggunakan metode ARIMA (Autoregressive Integrated Moving Average). Metode ARIMA merupakan metode peramalan dengan menggunakan serangkaian data masa lalu yang digunakan untuk mengamati terhadap suatu kejadian, peristiwa, atau suatu variable pada data tersebut.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.	
+Puji Andayani, S.Si., M.Si., M.Sc.

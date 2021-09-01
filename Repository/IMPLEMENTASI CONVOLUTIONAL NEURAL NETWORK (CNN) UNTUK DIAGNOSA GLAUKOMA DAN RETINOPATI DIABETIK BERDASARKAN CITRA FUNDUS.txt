@@ -1,0 +1,9 @@
+IMPLEMENTASI CONVOLUTIONAL NEURAL NETWORK (CNN) UNTUK DIAGNOSA GLAUKOMA DAN RETINOPATI DIABETIK BERDASARKAN CITRA FUNDUS. Undergraduate thesis, Universitas Internasional Semen Indonesia.R. Dhimas Bagus Teguh Pambudi, 3011510041 (2020) 
+
+
+Abstract
+Di masa sekarang ini, manusia mudah dipengaruhi oleh berbagai penyakit yang menyebabkan kerusakan pada beberapa bagian atau organ tubuh sehingga mempengaruhi kinerjanya. Penyakit mata adalah salah satu faktor, salah satu penyakit mata yang sering diderita adalah glaukoma dan retinopati diabetik. Namun, untuk dapat mendiagnosa penyakit mata ini, dibutuhkan beberapa tahapan-tahapan tes yang perlu dijalani untuk dapat mengetahui apakah seorang menderita penyakit glaukoma atau retinopati diabetik. Sehingga dibutuhkan suatu pendekatan untuk mempermudah permasalahan ini. Citra fundus akan digunakan dalam penelitian ini. Salah satu pendekatan dalam pengklasifikasi gambar adalah Convolutional Neural Network (CNN). CNN merupakan sebuah model neural network yang umum digunakan untuk tugas Image Classification, CNN menunjukkan hasil yang baik dalam akurasi Image Classification atau kasus-kasus lainnya. Pada penelitian ini model CNN yang dibuat akan dievaluasi dengan menggunakan data test sebanyak 1087, dengan menggunakan confusion matrix didapatkan hasil akurasi yaitu sebesar 96.7%. Hasil dari penelitian ini diharapkan dapat membantu dalam bidang kesehatan khususnya optalmologi.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.	

@@ -1,0 +1,10 @@
+KLASIFIKASI JENIS TANAMAN HERBAL MENGGUNAKAN METODE CONVOLUTIONAL NEURAL NETWORK. Undergraduate thesis, Universitas Internasional Semen Indonesia.R Akhrom Darmawan, 3011610044 (2021)
+
+
+Abstract
+Indonesia merupakan negara yang mempunyai banyak keragaman hayati yang tinggi termasuk keragaman dalam tanaman herbal atau tanaman obat. Penelitian ini bertujuan untuk mengklasifikasi daun pada tanaman herbal karena untuk membedakan antara daun herbal dan tanaman biasa sangat sulit. Dalam penelitian ini menggunakan metode Convolutional Neural Network (CNN). CNN merupakan salah satu jenis neural network yang digunakan pada data image untuk mendeteksi dan mengenali objek pada sebuah citra. Dan penelitian ini menggunakan arsitektur dari VGG16, VGG19, InceptionV3, Xception dan Resnet90 . Pada penelitian ini menggunakan 10 dataset tanaman herbal yaitu daun meniran, daun dewa, daun sembung, daun kelor, daun sirih, daun binahong, daun salam, daun beluntas, daun ki tolod dan daun sambiloto. Hasil dari penelitian ini mendapatkan hasil akurasi 94,8% pada VGG16, 96,6% pada VGG19, 95,2% pada Xception, 93,8% pada InceptionV3 dan 81,2% pada Resnet90.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom., MCE	
+Taufiqotul Bariyah, S.Kom., M.IM.

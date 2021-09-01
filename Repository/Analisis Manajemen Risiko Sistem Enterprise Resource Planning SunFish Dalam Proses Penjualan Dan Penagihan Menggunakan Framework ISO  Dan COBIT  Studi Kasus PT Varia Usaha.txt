@@ -1,0 +1,9 @@
+Analisis Manajemen Risiko Sistem Enterprise Resource Planning SunFish Dalam Proses Penjualan Dan Penagihan Menggunakan Framework ISO 31000 Dan COBIT 5 (Studi Kasus PT Varia Usaha Beton – BM Gresik). Undergraduate thesis, Universitas Internasional Semen Indonesia.Dian Natasya Safitri, 3021710016 (2021)
+
+
+Abstract
+Perkembangan teknologi informasi dan komunikasi sangat penting dalam mendukung proses bisnis perusahaan, PT Varia Usaha Beton telah menggunakan sistem informasi berbasis ERP (Enterprise Resource Planning) SunFish untuk mengelola aktivitas manajemen proses bisnis dan sebagai solusi sistem manajemen rantai pasok pencatatan akuntansi. Dengan penerapan sebuah sistem tidak menjamin kemungkinan tidak adanya risiko pada proses bisnis perusahaan. Maka penerapan manajemen risiko sangatlah penting bagi keberlangsungan aktifitas perusahaan. Perusahaan ini bergerak di bidang manufaktur dan bidang jasa konstruksi bangunan. Salah satu dari plant yang menjadi studi kasus dari penelitian ini yaitu Plant Beton Masonry menjadikan fokus yang akan dilakukan analisis risiko karena menjadi bagian penting dalam berinteraksi dengan customer ketika melakukan pemesanan dan regu ini akan mencakup semua kegiatan proses bisnis dibidang produksi, keuangan, pergudangan dan distribusi, plant yang berfokus pada produk-produk keperluan real estat dan proyek-proyek perumahan. Penerapan sistem ERP (Enterprise Resource Planning) SunFish pada modul sales untuk mengelola berbagai aktivitas manajemen proses bisnis. Penerapan manajemen risiko menggunakan panduan Framework ISO 31000 dan COBIT 5 for Risk memberikan panduan melakukan identifikasi, analisis risiko, evaluasi risiko, mitigasi risiko, dan risk scenario memberikan scenario negatif dan positif.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt., MCE.

@@ -1,0 +1,9 @@
+QUALITY OF SERVICE JARINGAN INTERNET PADA UNIVERSITAS INTERNASIONAL SEMEN INDONESIA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Cahya Indra Ramadhan, 3021510007 (2019) 
+
+
+Abstract
+Seiring berkembangnya zaman, internet merupakan suatu kebutuhan bagi umat manusia, dalam sektor pendidikan internet memudahkan para staff admisi dan juga siswa/mahasiswa. Di Universitas Internasional Semen Indonesia (UISI) kebutuhan internet yang cepat memudahkan semua kegiatan dalam lingkup perkuliahan UISI mulai dari absensi, pencarian informasi, berbagi data hingga ujian yang berbasis e-learning. Untuk dapat mengetahui kualitas jaringan internet diperlukan pengukuran Quality of Service (QoS) jaringan internet UISI. Parameter yang akan digunakan untuk pengujian Quality of Service adalah Troughput, Packetloss, Delay, Jitter yang akan diolah lebih lanjut dengan menggunakan metode S.A.W untuk mengetahui dimana dan pada pukul berapa Jaringan WiFi UISI bekerja paling baik. Penelitian ini akan diuji pada setiap gedung di UISI mulai pukul 08.00 sampai 15.00 Berdasarkan hasil analisis dan penilaian yang telah dilakukan dapat disimpulkan bahwa waktu terbaik jaringan UISI terdapat pada hari ke 2 di gedung 3 pada pukul 12.00, dan setiap gedung UISI memiliki nilai diatas 0,75 yang berarti kualitas jaringan internet WiFi UISI bagus.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.	

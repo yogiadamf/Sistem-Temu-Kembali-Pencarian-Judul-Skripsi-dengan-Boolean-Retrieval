@@ -1,0 +1,9 @@
+PERANCANGAN ALAT BANTU BAGI PARA PEKERJA KULI ANGKUT DI PELABUHAN KOTA GRESIK. Undergraduate thesis, Universitas Internasional Semen Indonesia.Rizky Raisha Aprilia, 2011610035 (2020) 
+
+
+Abstract
+Pekerjaan di Indonesia masih ada yang menggunakan sistem manual. Salah satunya adalah pekerjaan kuli angkut. Pekerjaan kuli angkut ini biasanya akan mengangkat beban berupa semen, tepung, beras dan lain-lain. Apabila pekerjaan kuli angkut ini dilakukan secara manual lama-kelamaan akan mengakibatkan cidera atau ganguan pada otot rangka (mosculoskeletal disorders (MSDs)). Tujuan dari penelitian ini adalah untuk merancang alat bantu bagi pekerja kuli angkut melalui tahap analisis postur kerja dengan menggunakan metode Rapid Upper Limb Assesment (RULA). Pada tahap analisa postur kerja dengan menggunakan metode RULA ini didapatkan nilai skor 7 pada postur pengangkatan beban yang dapat diartikan bahwa proses tersebut memiliki resiko yang tinggi dan perlu adanya perubahan secepatnya. Tahapan awal yang dilakukan adalah review jurnal penelitian terdahulu untuk mengetahui keluhan-keluhan pekerja kuli angkut. Dari proses review jurnal didapatkan data bahwa bagian yang dikeluhkan oleh pekerja kuli angkut adalah bagian pinggang, leher, bahu, tangan dan punggung. Tahapan selanjutnya adalah Perancangan alat bantu dengan metode Axiomatic Design dan pendekatan antropometri. Desain dibuat dengan Software Sketch Up dan dianalisa dengan metode RULA untuk mengetahui apakah alat bantu tersebut dapat mengurangi terjadinya risiko tersebut. Hasil dari analisa RULA menunjukkan bahwa skor alat bantu tersebut adalah 6, hal tersebut mengidentifikasi bahwa postur ini memilki resiko yang sedang dan butuh perubahan dalam waktu singkat. Pemakai alat bantu tas pengangkut dapat mengurangi skor RULA dan menurunkan resiko ke level sedang.
+
+
+Dosen Pembimbing
+Kuntum Khoiro Ummatin, S.T., M.T.

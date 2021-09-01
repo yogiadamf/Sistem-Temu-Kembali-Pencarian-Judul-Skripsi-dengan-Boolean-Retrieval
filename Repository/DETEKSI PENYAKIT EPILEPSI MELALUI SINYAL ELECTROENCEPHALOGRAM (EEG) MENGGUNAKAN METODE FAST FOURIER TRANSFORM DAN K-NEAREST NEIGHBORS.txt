@@ -1,0 +1,10 @@
+DETEKSI PENYAKIT EPILEPSI MELALUI SINYAL ELECTROENCEPHALOGRAM (EEG) MENGGUNAKAN METODE FAST FOURIER TRANSFORM DAN K-NEAREST NEIGHBORS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Dery Setiawan, 3011510018 (2019)
+
+
+Abstract
+Epilepsi terjadi karena adanya gangguan pada sistem syaraf otak manusia, yang terekam dari sinyal Elektroencephalogram (EEG). Sinyal EEG mengandung informasi aktivitas listrik di otak, termasuk kondisi pikiran dan gangguan kelistrikan pada syaraf. Tujuan dari penelitian ini adalah untuk menganalisis dan mengklasifikasi gelombang sinyal epilepsi EEG pada manusia. Penelitian ini dilakukan dengan teknik transformasi & klasifikasi. Secara skematik, Metode penelitian dilakukan dengan beberapa tahapan pengumpulan data sinyal EEG, ekstraksi data dengan menggunakan algoritma Fast Fourier Transform dan klasifikasi data menggunakan algoritma K-Nearest Neighbors. Datasets sinyal EEG pada penelitian ini menggunakan data dari BernBarcelona. Penelitian ini menggunakan 10 datasets (5 Focal dan 5 Non-Focal) yang satu set data berisi 3750 sinyal training EEG, yang satu indeks file data training memiliki 20.480 sinyal. Hasil dari penelitian ini berupa keputusan deteksi sinyal kejang epilepsi dan kejang normal pada data EEG.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Yohanes Indra Riskajaya, S.Kom., M.Kom.	

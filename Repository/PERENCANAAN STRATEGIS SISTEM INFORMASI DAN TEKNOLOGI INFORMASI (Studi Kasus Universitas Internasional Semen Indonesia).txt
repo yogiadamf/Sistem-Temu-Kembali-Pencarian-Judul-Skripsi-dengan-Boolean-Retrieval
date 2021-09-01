@@ -1,0 +1,9 @@
+PERENCANAAN STRATEGIS SISTEM INFORMASI DAN TEKNOLOGI INFORMASI (Studi Kasus Universitas Internasional Semen Indonesia). Undergraduate thesis, Universitas Internasional Semen Indonesia.Moch. Aldoris Williandy, 3021610030 (2020)
+
+
+Abstract
+Universitas Internasional Semen Indonesia (UISI) merupakan salah satu institusi pendidikan berjenjang S1 (Sarjana) yang berkomitmen menyelenggarakan pendidikan berkualitas tinggi. UISI belum pernah membuat suatu perencanaan strategis khususnya dibidang sistem informasi dan teknologi informasi, sehingga timbulah suatu permasalahan bagaimana membuat sebuah usulan perencanaan strategis sistem informasi UISI untuk menciptakan keunggulan bersaing dalam mewujudkan visi, misi dan tujuan organisasi, maka dibuatlah sebuah usulan perencanaan sistem informasi berdasarkan penelitian yang dilakukan dengan menggunakan Metode Ward and Peppard. Teknik analisis yang akan digunakan adalah SWOT, KPI CSF, BSC, dan hasil akhirnya ditampilkan dalam bentuk portofolio sistem informasi McFarlan.. Hasil perencanaan sistem informasi masa mendatang dengan menggunakan tools portofolio McFarlan dihasilkan delapan jenis aplikasi sistem informasi baru yang direncanakan akan dibuat. Penentuan Visi dan misi dari organisasi dalam hal ini UISI sangat menentukan hasil dari perencanaan sistem informasi dan teknologi informasi UISI walupun hasilnya belum dapat menentukan kesuksesan sebuah organisasi dikarenakan masih adannya faktor lain yang harus dipertimbangkan.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.

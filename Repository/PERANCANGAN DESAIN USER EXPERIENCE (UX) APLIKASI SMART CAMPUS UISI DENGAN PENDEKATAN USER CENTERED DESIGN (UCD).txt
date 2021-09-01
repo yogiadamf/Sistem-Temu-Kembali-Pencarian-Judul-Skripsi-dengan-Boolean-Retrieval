@@ -1,0 +1,10 @@
+PERANCANGAN DESAIN USER EXPERIENCE (UX) APLIKASI SMART CAMPUS UISI DENGAN PENDEKATAN USER CENTERED DESIGN (UCD). Undergraduate thesis, Universitas Internasional Semen Indonesia.Zeni Maliha, 3011610056 (2020)
+
+
+Abstract
+Gapura UISI merupakan aplikasi sistem informasi yang berbasis web pada Universitas Internasional Semen Indonesia (UISI) dengan tujuan untuk memberikan informasi seputar akademik kepada mahasiswa maupun dosen. Namun ada beberapa informasi yang kurang memenuhi kebutuhan mahasiswa. Dari hasil survei kepada 82 mahasiswa diketahui bahwa 78% merasa kesulitan mendapatkan informasi terkini di UISI. Selain itu 65% mahasiswa mengakses informasi lebih nyaman melalui aplikasi daripada melalui website. Solusi dari masalah tersebut yaitu merancang aplikasi dengan berfokus pada User Interface (UI) dan hasil analisis User Experience (UX) yang dikhususkan untuk perangkat mobile dan dapat memenuhi kebutuhan pengguna. Pentingnya UI/UX dalam pengembangan aplikasi adalah untuk mempermudah menggunakan atau mengendalikan aplikasi dan mengetahui kebutuhan pengguna. Pada perancangan ini peneliti menggunakan metode User-Centered Design (UCD), metode ini berfokus pada kebutuhan pengguna. Hasil penelitian ini adalah sebuah solusi desain pada aplikasi Smart Campus yang dapat diterima dengan hasil skor SUS sebesar 78.
+
+
+Dosen Pembimbing
+Doni Setio Pambudi, S.Kom., M.Kom.
+Ruktin Handayani, S.Kom., M.Kom.

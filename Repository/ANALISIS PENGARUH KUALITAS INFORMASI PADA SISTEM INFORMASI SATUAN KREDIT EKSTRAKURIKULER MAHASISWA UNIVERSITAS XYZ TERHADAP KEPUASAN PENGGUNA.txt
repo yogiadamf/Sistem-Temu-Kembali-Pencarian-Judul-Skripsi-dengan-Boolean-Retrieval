@@ -1,0 +1,10 @@
+ANALISIS PENGARUH KUALITAS INFORMASI PADA SISTEM INFORMASI SATUAN KREDIT EKSTRAKURIKULER MAHASISWA UNIVERSITAS XYZ TERHADAP KEPUASAN PENGGUNA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Nor Faridah, 3021510028 (2019)
+
+
+Abstract
+Penelitian ini dilakukan untuk mengetahui pengaruh kualitas informasi pada sistem informasi satuan kredit ekstrakurikuler mahasiswa (SI SKEM) Universitas XYZ terhadap kepuasan pengguna. Populasi yang digunakan dalam penelitian ini adalah mahasiswa angkatan 2015, 2016 dan 2017, Serta dosen Universitas XYZ. Sampel yang didapatkan sebanyak 335 mahasiswa dan 43 dosen. Penelitian ini menggunakan model (Chae, Kim, Kim, & Ryu, 2002) yang terdiri dari enam variabel yaitu Konten, Koneksi, Kontekstual dan Interaksi, Kepuasan Pengguna dan Tujuan Penggunaan Sistem Informasi. Metode analisis data yang digunakan adalah Partical Least Square (PLS). Hasil penelitian ini menunjukkan bahwa kualitas informasi SI SKEM dengan kepuasan pengguna dari mahasiswa dan kepuasan pengguna dengan tujuan penggunaan SI SKEM melalui signifikasi 10% memiliki nilai P kurang dari 0,1. Artinya kualitas informasi berpengaruh signifikan terhadap kepuasan pengguna mahasiswa. Sedangkan kepuasan pengguna berpengaruh signifikan terhadap tujuan penggunaan SI SKEM dari mahasiswa (0,000) dan dosen (0,004). Kemudian, kualitas informasi SI SKEM dan kepuasan pengguna dosen melalui signifikasi 10% memiliki nilai P lebih dari 0,1 pada variabel konten (0,754) dan kontekstual (0,420). Artinya kualitas informasi berpengaruh tidak signifikan terhadap kepuasan pengguna dosen.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.
+Brina Miftahurrohmah, S.Si., M.Si.

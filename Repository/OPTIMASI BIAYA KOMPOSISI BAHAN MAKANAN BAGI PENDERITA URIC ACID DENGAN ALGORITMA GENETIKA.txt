@@ -1,0 +1,9 @@
+OPTIMASI BIAYA KOMPOSISI BAHAN MAKANAN BAGI PENDERITA URIC ACID DENGAN ALGORITMA GENETIKA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Fitri Kurniasari, 3011510026 (2019)
+
+
+Abstract
+Kesehatan merupakan hal penting yang perlu diperhatikan, kesehatan dapat dicapai dengan mengkonsumsi makanan yang tepat sesuai kebutuhan. Karena tanpa kesehatan yang baik, maka akan mengalami kesulitan dalam melakukan aktivitas selain itu dapat menimbulkan penyakit salah satunya adalah uric acid (asam urat). Faktor penyebab terjadinya penyakit uric acid (asam urat) adalah pola makan yang tinggi kandungan purin dan faktor genetik. Umumnya pola makan yang tidak seimbang (jumlah asupan protein sangat tinggi) menyebabkan tingginya kadar asam urat di dalam tubuh. Namun bagi orang awam, megatur komposisi makanan seharihari dirasa sulit. Mengatasi kasus tersebut dalam penelitian ini menggunakan algoritma genetika untuk menyediakan bahan yang tepat dengan biaya terjangkau bagi pengerita uric acid (asam urat). Pada penelitian ini menggunakan 50 bahan makanan dan kandungan gizi (karbohidrat, protein, lemak). Pada proses algoritma ini menggunakan representasi kromosom permutasi bilangan integer dan memiliki panjang kromosom 15, dimana angka tersebut merepresentasikan nomor urut bahan makanan. Hasil yang diperoleh dari penelitian ini berupa rekomendasi bahan makanan untuk penderita uric acid (asam urat) dengan rincian nama bahan makanan, berat, kandungan kalori, kandungan karbohidrat, kandungan protein, kandungan lemak, dan harga. Harga total biaya juga ditampilkan, guna memprediksi biaya yang dikeluarkan.
+
+
+Dosen Pembimbing
+Puji Andayani, S.Si., M.Si., M.Sc.	

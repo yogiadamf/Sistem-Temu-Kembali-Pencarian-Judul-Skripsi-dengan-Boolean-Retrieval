@@ -1,0 +1,10 @@
+PEMBUATAN DASHBOARD BERBASIS DATA MART MENGGGUNAKAN POWER BI (STUDI KASUS : BAGIAN ADMISI DI UISI). Undergraduate thesis, Universitas Internasional Semen Indonesia.Andi Prayugo Sumarlin, 3021510005 (2019)
+
+
+Abstract
+Admisi UISI adalah sebuah divisi yang menangani dalam proses penerimaan mahasiswa dan mengelola dari data mahasiswa yang ada. Data mahasiswa adalah sebuah data penting bagi universitas karena dengan data itu universitas bisa mengetahui persebaran jumlah mahasiswa yang sedang menempuh gelar Strata 1 (S1), dengan data itu juga team marketing dapat menentukan strategi untuk meningkatkan jumlah mahasiswa dari tahun sebelumnya. Dalam pembuatan strategi untuk meningkatkan jumlah mahasiswa dibutuhkan suatu analisis dari data mahasiswa yang sebelumnya atau jumlah mahasiswa yang ada. Salah satu pendekatan yang dapat dilakukan adalah pembuatan data mart untuk selanjutnya hasilnya dapat divisualisasikan kedalam bentuk dashboard. Telah ada penelitian sebelumnya terkait pembuatan dashboard dan data mart yang dapat membuktikan bahwa pembuatan data mart dapat memudahkan dalam perancangan suatu dashboard sesuai dengan kebutuhan. Proses yang dilakukan adalah mengumpulkan data dari admisi UISI kemudian diolah dengan proses data staging dengan menggunakan SQLYog dengan tujuan mengolah data yang relevan dari sumber data. Setelah dilakukan pengumpulan data maka dilakukan proses data mart untuk selanjutnya hasilnya akan divisualisasikan kedalam dashboard dengan menggunakan aplikasi dari Power BI untuk menunjang dalam pengambilan keputusan.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom.,
+Catur Wulandari, S.Kom., M.Sc.

@@ -1,0 +1,9 @@
+ANALISIS PROSES BISNIS DENGAN METODE BPM LIFECYCLE (STUDI KASUS: LAYANAN PUSKESMAS SUKOMULYO). Undergraduate thesis, Universitas Internasional Semen Indonesia.Imroatul Muthoharoh, 3021510016 (2019) 
+
+
+Abstract
+Masalah pelayanan publik yang terjadi di Indonesia saat ini berada di titik krisis kepercayaan oleh masyarakat terhadap pemerintah. Kejadian ini mulai tampak dengan adanya semakin rendah kepercayaan para masyarakat. Pusesmas Sukomulyo adalah salah satu dari 23 puskesmas yang ada di kabupaten gresik, dimana puskesmas tersebut mempunyai masalah pada pelayanannya yang masih terhitung lama. Salah satunya adalah lamanya mengantri untuk pemeriksaan ke dokter umum. Oleh karena itu, dari beberapa kendala yang ada untuk menunjang kebutuhan masyarakat dalam mewujudkan pelayanan kesehatan yang efisien. Maka peneliti tertarik untuk mengkaji dan meneliti permasalahan yang ada di puskesmas mengenai “Analisis Proses Bisnis dengan metode BPM Lifecycle Studi Kasus Puskesmas Sukomulyo”. Dengan tujuan untuk mengetahui hasil analisis proses bisnis yang ada pada layanan puskesmas sukomulyo apakah sudah sesuai dengan proses bisnis yang di harapkan. Metode yang digunakan yaitu BPMN 2.0 dengan tools Signavio, VA analisis (Value Added analisis, Non Value Added analisis, Business Value Added analisis), dan Cycle Time dimana diperoleh dengan hasil akhir sebuah gambaran proses pemodelan dengan BPMN 2.0, dan solusi dari perhitungan yang telah di lakukan. Hasil pendokumentasian proses bisnis ini sudah sesuai dengan SOP poli umum dan perhitungan secara real time ternyata ada beberapa alur proses bisnis yang masuk dalam klasifikasi NVA yakni untuk cycle time rata-rata yang di dapatkan 72,6 menit dalam menjalankan pelayanan yang ada di poli umum.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt.

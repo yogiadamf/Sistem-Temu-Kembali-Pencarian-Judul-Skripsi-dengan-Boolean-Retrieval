@@ -1,0 +1,10 @@
+PERENCANAAN MANAJEMEN RISIKO TI PADA DIREKTORAT JENDERAL PENGAWASAN DAN PELAYANAN BEA DAN CUKAI DENGAN MENGGUNAKAN FRAMEWORK ISO 31000 : 2009. Undergraduate thesis, Universitas Internasional Semen Indonesia.Rahma Maulidina, 3021610040 (2020) 
+
+
+Abstract
+Penggunaan manajemen risiko yang terintergrasi adalah suatu kebutuhan yang penting dilakukan dalam penyelesaian permasalahan sektor perekonomian. Penelitian ini menggunakan framework ISO 31000 : 2009, yaitu suatu metode yang berisi kerangka kerja, proses dan prinsip yang tepat digunakan dalam solusi permasalahan khususnya pada risiko operasional dan teknologi informasi .Tujuan penelitian ini adalah untuk membantu memberikan fokus rekomendasi analisa perencanaan manajemen risiko yang terintegrasi pada Direktorat Jendral Pengawasan dan pelayanan Bea Dan Cukai Gresik. Direktorat Jendral Pengawasan dan Pelayanan Bea dan Cukai Gresik merupakan direktorat milik pemerintah yang bertugas memberikan pelayanan dan pengawasan serta penyedia jasa dalam kegiatan izin ekspor dan impor. Dalam penulisan Penelitian ini dilakukan dengan metode kualitatif . Hasil dari penelitian ini adalah perencanaan pada aspek risiko operasional dan TI, yang berisi identifikasi, analisa terhadap risiko, pengelolaan terhadap risiko, evaluasi risiko, serta monitoring dan review yang dapat menghasilkan panduan sebagai pengambilan suatu keputusan.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., M.BusProcessMgt
+Catur Wulandari, S.Kom., M.Sc

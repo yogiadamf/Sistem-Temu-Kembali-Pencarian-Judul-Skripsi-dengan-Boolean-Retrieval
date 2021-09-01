@@ -1,0 +1,10 @@
+IMPLEMENTASI ALGORITMA SIMPLE ADDITIVE WEIGHTING PADA PROSES PEMUATAN PRODUK DI PT. PETROKIMIA GRESIK. Undergraduate thesis, Universitas Internasional Semen Indonesia.Putu Alicia Sarah Sativa Tanaya, 3011610043 (2020) 
+
+
+Abstract
+PT. Petrokimia Gresik memiliki 7 buah gudang dengan jarak antar gudang yang cukup jauh, untuk memenuhi kebutuhan bisnisnya, PT. Petrokimia Gresik membangun aplikasi berbasis web yang diberi nama SISTRO. SISTRO adalah kependekan dari sistem schedulling truck online. Salah satu fungsi yang terdapat di SISTRO adalah fungsi pilih Gudang. Fungsi pilih gudang ini, bertujuan untuk mengarahkan truk ke salah satu gudang yang sesuai dengan barang yang akan dimuat oleh truk. Selama ini, SISTRO belum mengimplementasikan algoritma apapun yang dapat memberikan keputusan yang akurat mengenai tujuan truk, Hal ini menyebabkan terjadinya kesalahan dalam pemilihan tujuan truk. Berdasarkan data dari departemen Distribusi Wilayah I, jumlah kejadian mencapai kesalahan pemilihan tujuan ini terjadi lebih dari 30 kali dalam kurun waktu 2 bulan. Kesalahan pemilihan gudang ini, membuat PT. Petrokimia harus mengeluarkan biaya sebesar tujuh belas ribu lima ratus untuk memindahkan setiap ton nya, sedangkan rata – rata jumlah muat adalah 50 ton. Melalui penelitian ini, penulis akan mengimplementasikan algoritma Simple Additive Weighting. Simple Additive Weighting dapat memprediksi sebuah keputusan yang akan diambil dengan menjumlahkan bobot sesuai dengan kriteria yang telah ditentukan dan juga membutuhkan proses normalisasi matriks keputusan ke suatu skala, sehingga dapat memberikan hasil berupa informasi keputusan tujuan gudang. Dilakukan beberapa kasus uji dalam penelitian ini, hasil terbaik didapatkan ketika bobot kriteria prioritas adalah 60% dan didapatkan hasil bahwa algoritma yang digunakan dapat menekan biaya handling sebesar 505.493.100 rupiah dalam satu bulan.
+
+
+Dosen Pembimbing
+Doni Setio Pambudi, S.Kom., M.Kom.
+Mohammad Arif Rasyidi, S.Kom., M.Sc.

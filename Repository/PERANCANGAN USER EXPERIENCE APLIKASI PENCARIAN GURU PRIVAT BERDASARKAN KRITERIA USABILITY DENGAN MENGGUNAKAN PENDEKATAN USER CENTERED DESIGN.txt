@@ -1,0 +1,11 @@
+PERANCANGAN USER EXPERIENCE APLIKASI PENCARIAN GURU PRIVAT BERDASARKAN KRITERIA USABILITY DENGAN MENGGUNAKAN PENDEKATAN USER CENTERED DESIGN. Undergraduate thesis, Universitas Internasional Semen Indonesia.Fitri Kharismawati, 3011510051 (2019)
+
+
+Abstract
+Berkembangnya teknologi m-learning membuat generasi milenial dapat belajar kapan pun di mana pun melalui laptop atau smartphone. Sehingga mereka tidak perlu lagi harus datang ke lokasi bimbingan belajar dua atau tiga kali seminggu. Beberapa startup yang menggunakan teknologi m-learning adalah Ruangguru, Quipper, dan Zenius. Namun beberapa pengguna yang pernah mengakses m-learning tersebut merasa tidak sesuai dengan yang diharapkan penggunanya. User experience aplikasi merupakan salah satu kunci penting keberlangsungan aplikasi m-learning. Metode user centered design adalah metode yang menerapkan pengguna sebagai pusat dari tujuan pembangunan hingga penentuan desain aplikasi tergantung dari experience pengguna. Berdasarkan dari kebutuhan terbanyak, pengguna menginginkan adanya aplikasi m-learning pencarian guru privat yang mudah digunakan. Hasil akhir dalam membangun mlearning ini menghasilkan tampilan desain interface, penggunaan visual yang user friendly, serta memiliki nilai usability. Dari hasil pengujian usability menggunakan SUS bahwa aplikasi pencarian guru privat layak dan dapat diterima oleh generasi milenial. Namun pada sisi user experience pada skala daya tarik memiliki nilai dibawah rata-rata.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.
+Ruktin Handayani, S.Kom., M.Kom.
+Doni Setio Pambudi, S.Kom., M.Kom.

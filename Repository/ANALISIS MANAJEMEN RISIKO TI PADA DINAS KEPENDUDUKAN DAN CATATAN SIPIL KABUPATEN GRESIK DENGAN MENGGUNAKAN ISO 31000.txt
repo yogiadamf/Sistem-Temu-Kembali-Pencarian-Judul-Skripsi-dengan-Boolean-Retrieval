@@ -1,0 +1,10 @@
+ANALISIS MANAJEMEN RISIKO TI PADA DINAS KEPENDUDUKAN DAN CATATAN SIPIL KABUPATEN GRESIK DENGAN MENGGUNAKAN ISO 31000. Undergraduate thesis, Universitas Internasional Semen Indonesia.Rifky, 3021610042 (2020) 
+
+
+Abstract
+Penerapan teknologi informasi dan komunikasi saat ini dapat mendukung instansi pemerintahan dalam meningkatkan kualitas pelayanan agar dapat berjalan dengan efektif dan efisien. Dinas Kependudukan dan Catatan Sipil Kabupaten Gresik merupakan salah satu instansi pemerintahan yang telah menerapkan teknologi informasi dengan menyediakan website Siak untuk membantu proses pencatatan sipil. Kegunaan website Siak ini salah satunya adalah dapat membantu pengguna dalam melakukan pencetakan e-ktp secara online. Maka dari itu, penggunaan website Siak diharapkan dapat mendukung pelayanan operasional publik menjadi lebih baik. Implementasi teknologi informasi pun tidak serentak terjadi pada Dinas Kependudukan dan Catatan Sipil di seluruh Indonesia. Berjalannya elemen dan komponen sistem yang baik menjadi hal yang sangat penting guna menunjang kinerja dari sistem itu sendiri. Namun, tidak dapat dipungkiri bahwa kemungkinan munculnya berbagai ancaman dan risiko dapat menghambat bahkan melumpuhkan aktivitas di dalam sistem. Untuk itu, perlu dilakukan analisis terhadap berbagai kemungkinan risiko yang muncul di dalam sistem. Hasil analisis risiko diharapkan dapat meminimalisir hal-hal yang tidak diinginkan. Pada penelitian ini analisis risiko dilakukan dengan menggunakan metode framework ISO 31000. Analisa yang dilakukan meliputi identifikasi risiko, analisis risiko, evaluasi risiko serta hasil implementasi yang akan memperoleh solusi penanganan dampak risiko yang telah terjadi.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt
+Catur Wulandari, S.Kom., M.Sc.

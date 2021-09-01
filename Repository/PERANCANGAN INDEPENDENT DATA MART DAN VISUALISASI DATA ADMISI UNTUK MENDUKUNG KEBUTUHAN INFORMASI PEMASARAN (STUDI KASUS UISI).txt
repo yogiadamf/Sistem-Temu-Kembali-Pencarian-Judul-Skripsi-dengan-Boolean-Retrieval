@@ -1,0 +1,10 @@
+PERANCANGAN INDEPENDENT DATA MART DAN VISUALISASI DATA ADMISI UNTUK MENDUKUNG KEBUTUHAN INFORMASI PEMASARAN (STUDI KASUS: UISI). Undergraduate thesis, Universitas Internasional Semen Indonesia.Agil Abdullah Ferdiansyah, 3011510004 (2019)
+
+
+Abstract
+Ketatnya persaingan dalam mendapatkan mahasiswa baru merupakan suatu tantangan bagi perguruan tinggi. Perencanaan strategi promosi yang efektif dan efisien adalah hal penting bagi perguruan tinggi agar dapat bertahan dalam persaingan. Data admisi merupakan aset bagi pihak pemasaran untuk mendapatkan informasi pendukung dalam perencanaan strategi promosi. Pengolahan data admisi di UISI masih dilakukan secara manual oleh pihak pemasaran, untuk itu perlu perancangan independent data mart untuk mengolah data admisi menjadi informasi yang berguna bagi pihak pemasaran. Untuk merancang independent data mart dari data admisi UISI metode yang digunakan adalah four-step Kimball, sedangkan tool yang digunakan untuk proses extract, transform, load (ETL) adalah Pentaho Data Integration (PDI)/Kettle. Data pada independent data mart admisi selanjutnya divisualisasikan pada suatu sistem berbasis web, sehingga dapat dianalisis untuk memberi informasi penunjang kepada pihak pemasaran dalam pengambilan keputusan perencanaan strategi promosi. Berdasarkan hasil pengujian, sistem visualisasi data admisi mampu memberikan informasi pendukung bagi pihak pemasaran. Sebesar 90% dari informasi yang disajikan pada sistem visualisasi data sesuai dengan informasi yang dibutuhkan pihak pemasaran.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.	
+Lailatul Hidayah, S.Kom., M.S.

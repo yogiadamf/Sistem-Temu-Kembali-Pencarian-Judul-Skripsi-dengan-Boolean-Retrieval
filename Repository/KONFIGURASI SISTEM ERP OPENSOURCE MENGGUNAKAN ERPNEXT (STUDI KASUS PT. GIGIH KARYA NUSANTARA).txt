@@ -1,0 +1,9 @@
+KONFIGURASI SISTEM ERP OPENSOURCE MENGGUNAKAN ERPNEXT (STUDI KASUS PT. GIGIH KARYA NUSANTARA). Undergraduate thesis, Universitas Internasional Semen Indonesia.Ahmad Narjus Suuda, 3021510001 (2019)
+
+
+Abstract
+Teknologi informasi menjadi trend saat ini, semua lini bisnis sudah menjadikannya inti. Hal ini diwujudkan menjadi salah satu Sistem ERP yang mendukung bisnis perusahaan, dimana Sistem ERP mampu meningkatkan pengambilan keputusan dalam perusahaan. PT. Gigih Karya Nusantara yang merupakan perusahaan swasta nasional bergerak di bidang perindustrian, fabrikasi, pemeliharaan, penilaian kelayakan konstruksi, dan operasionalisasi peralatan untuk keperluan keselamatan dan kesehatan kerja (K3). Dengan memiliki core bisnis dalam penjualan dan pembelian PT. Gigih Karya Nusantara masih ditunjang dengan Microsoft Excel yang mana dengan seiring perkembangan perusahaan yang semakin besar dan kompleks, serta data-data dan informasi yang diolah semakin banyak, maka dianggap tidak lagi efisien. Dengan itu, penelitian tugas akhir ini akan melakukan konfigurasi Sistem ERPNext untuk memenuhi kebutuhan PT. Gigih Karya Nusantara. Konfigurasi Sistem ERPNext ini menggunakan metode Traditional ERP Lifecycle dengan tahapan menentukan ruang lingkup dan komitmen, analisis dan desain, akuisisi dan pengembangan, dan diakhiri implementasi (konfigurasi). Harapannya setelah dilakukan konfigurasi Sistem ERPNext PT. Gigih Karya Nusantara dapat mengintegrasikan seluruh informasi yang ada pada proses bisnisnya serta meningkatkan efisiensi bisnisnya, terutama pada bagian marketing (sales) dan pembelian (purchasing) yang menjadi core bisnis perusahaan.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom.,

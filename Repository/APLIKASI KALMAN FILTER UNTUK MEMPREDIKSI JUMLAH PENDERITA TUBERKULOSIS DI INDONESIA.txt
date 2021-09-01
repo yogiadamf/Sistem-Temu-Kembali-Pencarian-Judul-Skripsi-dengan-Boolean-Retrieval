@@ -1,0 +1,10 @@
+APLIKASI KALMAN FILTER UNTUK MEMPREDIKSI JUMLAH PENDERITA TUBERKULOSIS DI INDONESIA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Devi Indriyani, 3011510019 (2019)
+
+
+Abstract
+Tuberkulosis atau yang sering disebut TBC merupakan suatu penyakit infeksi pada saluran pernafasan yang disebabkan oleh bakteri Mycrobacterium tuberculosis. Untuk melihat penyebaran penyakit tuberkulosis 10 tahun kedepan, maka diperlukan perhitungan untuk memprediksi jumlah penderita tuberkulosis di tahun berikutnya. Dalam menyelesaikan permasalahan tersebut, salah satu metode yang tepat untuk memprediksi jumlah penderita tuberkulosis di Indonesia adalah Kalman Filter. Kalman Filter merupakan algoritma yang digunakan untuk mengestimasi variabel keadaan pada sistem Linear.Pada kasus penyakit tuberkulosis ini, model state berupa model stokastik yang diperoleh berdasarkan mekanisme biologi dasar dari penyakit. Proses yang dilakukan dalam pengukuran dengan Kalman Filter yaitu inisialisasi variabel, tahap prediksi (Time Update), tahap koreksi (measurement update). Hasil akhir dari perhitungan Kalman Filter adalah nilai estimasi yang diperoleh dari tahap koreksi (Measurement Update) yang dijadikan sebagai data prediksi. Dari hasil prediksi penderita TBC tahun 2019 – 2028 dapat dilihat bahwa jumlah penderita TBC setiap tahunnya mengalami peningkatan. Begitu pula denganhasilprediksi penduduk sehat tahun 2019 – 2028 yang menunjukkan bahwa jumlah penduduk sehat setiap tahunnya mengalami peningkatan. Untukmelihattingkatkesalahan Error darihasilprediksi, makadigunakanperhitunganRoot Mean Square Error (RMSE).
+
+
+Dosen Pembimbing
+Puji Andayani, S.Si., M.Si., M.Sc.
+Ngatini, S.Si., M.Si.

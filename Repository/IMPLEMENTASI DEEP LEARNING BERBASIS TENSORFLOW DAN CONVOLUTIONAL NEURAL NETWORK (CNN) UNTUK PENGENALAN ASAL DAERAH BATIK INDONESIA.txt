@@ -1,0 +1,9 @@
+IMPLEMENTASI DEEP LEARNING BERBASIS TENSORFLOW DAN CONVOLUTIONAL NEURAL NETWORK (CNN) UNTUK PENGENALAN ASAL DAERAH BATIK INDONESIA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Agung Sugiarto, 3011510049 (2019) 
+
+
+Abstract
+Indonesian merupakan bangsa yang terdiri dari berbagai etnik dan memiliki latar belakang budaya yang beraneka ragam. Salah satu hasil kebudayaan masyarakat Indonesia adalah Batik, batik mempunyai banyak macam-macam motif. Corak maupun motif batik tersebut tidak bisa lepas dari unsur-unsur yang melekat dari wilayah asal pembuatannya. Pengetahuan tentang pengenalan motif batik mungkin hanya dimiliki oleh orang-orang tertentu yang memiliki keahlian pada bidang terkait seperti bidang membatik dan tidak semua orang dapat mengenali motif batik tersebut. Namun seiring dengan berkembangnya jaman dan meningkatnya kebutuhan akan informasi mendorong manusia untuk mengembangkan teknologi baru agar pengolahan informasi dapat dilakukan dengan mudah dan cepat. Sehingga dibutuhkan suatu pendekatan dalam penyelesaian permasalahan ini. Salah satu pendekatan dalam pengenalan suatu gambar adalah Deep Learning, merupakan sebuah model neural network yang belakangan ini mulai ramai dikembangkan, hasil dari Deep Learning menunjukkan hasil yang baik dalam meningkatkan akurasi Image Classification atau kasus-kasus lainnya. Penelitian ini bertujuan untuk mengetahui cara Deep Learning yaitu Convolutional Neural Network (CNN) dalam melakukan klasifikasi pengenalan daerah asal motif-motif batik.
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Taufiqotul Bariyah, S.Kom., M.IM.

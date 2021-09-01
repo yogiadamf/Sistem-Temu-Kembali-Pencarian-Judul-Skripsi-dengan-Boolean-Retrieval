@@ -1,0 +1,10 @@
+PERANCANGAN ARSITEKTUR SISTEM INFORMASI MANAJEMEN KEPEGAWAIAN PADA UNIVERSITAS INTERNASIONAL SEMEN INDONESIA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Nur Kholifatin Nadhiroh, 3021710044 (2021) 
+
+
+Abstract
+Dalam mengelola data kepegawaian diperlukan sebuah sistem informasi manajemen kepegawaian yang bertujuan untuk memudahkan pengelolaan data pegawai agar lebih efektif dan efisien. Seiring berkembangnya teknologi informasi, Universitas Internasional Semen Indonesia belum memiliki sistem informasi manajemen kepegawaian sehingga dalam pengelolaan data kepegawaian masih dilakukan secara manual. Sistem informasi manajemen kepegawaian ini berfungsi untuk melakukan pengelolaan data pegawai, rekrutmen pegawai, pembinaan dan pengembangan pegawai, pelatihan pegawai, studi lanjut pegawai, mutasi pegawai, promosi pegawai, penggajian pegawai dan pensiun pegawai. Pada penelitian ini peneliti menggunakan metode Bussines Process Model Notation (BPMN) dalam melakukan pemodelan flow proses bisnis dan menggunakan metode Unified Model Language (UML) dalam melalukan pemodelan use case diagram. Pada perancangan arsitektur sistem informasi manajemen kepegawaian pada Universitas Internasional Semen Indonesia menghasilkan menghasilkan flow proses bisnis, pemodelan use case diagram dan desain user interface sistem (mockup) yang diharapkan dapat membantu dalam pembangunan sistem informasi manajemen kepegawaian pada Universitas Internsional Semen Indonesia (UISI) kedepannya.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt., MCE
+Ruktin Handayani, S.Kom., M.Kom., MCE

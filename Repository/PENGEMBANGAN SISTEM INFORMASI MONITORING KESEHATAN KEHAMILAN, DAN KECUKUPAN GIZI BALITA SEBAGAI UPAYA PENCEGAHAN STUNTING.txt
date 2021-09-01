@@ -1,0 +1,10 @@
+PENGEMBANGAN SISTEM INFORMASI MONITORING KESEHATAN KEHAMILAN, DAN KECUKUPAN GIZI BALITA SEBAGAI UPAYA PENCEGAHAN STUNTING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Syauqi Mubarok, 3011510038 (2019)
+
+
+Abstract
+Stunting merupakan masalah kesehatan yang disebabkan oleh kurangnya asupan gizi dalam waktu yang cukup lama, sehingga mengakibatkan gangguan pertumbuhan pada anak. Minimnya pengetahuan ibu mengenai pemberian gizi dan pola asuh yang baik menjadi salah satu penyebab terjadinya stunting. Dengan adanya pemberian informasi secara intensif dan monitoring terhadap ibu hamil akan mengurangi terjadinya stunting pada balita. Tujuan dari tugas akhir ini adalah menciptakan sebuah sistem informasi yang dapat memuat berbagai informasi dan pola asuh agar terhindar dari stunting. Selain menyediakan informasi, hasil dari penelitian ini berupa sistem informasi yang akan membantu untuk melakukan diseminasi berbagai informasi mengenai cara pemenuhan gizi yang baik dan benar. Selain itu, sistem akan mengirimkan pemberitahuan langsung melalui surel dan Short Message Service (SMS) yang akan menjadi pengingat bagi pasien sebagai bentuk monitoring kesehatan balita atau kehamilan berdasarkan data yang dimasukkan ke dalam sistem. Peneliti berharap solusi ini dapat mempermudah pemerintah dalam mewujudkan visinya untuk mengurangi tingkat stunting di Indonesia.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Doni Setio Pambudi, S.Kom., M.Kom.

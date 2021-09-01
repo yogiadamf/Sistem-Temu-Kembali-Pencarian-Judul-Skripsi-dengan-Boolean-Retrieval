@@ -1,0 +1,10 @@
+PEMBANGUNAN SISTEM INFORMASI PENJADWALAN PANEN KELAPA SAWIT DAN PENYIMPANAN DATA RINCIAN PRODUKSI KUD DESA MEKAR JAYA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Adi Miftakul Hudda, 3011510048 (2019)
+
+
+Abstract
+Penjadwalan Panen Kelapa Sawit di desa Mekarjaya masih menggunakan cara manual. Yang mana KUD desa Mekarjaya akan memperkirakan waktu panen melalui rotasi panen yang terjadi selama 10 hari setiap kelompoknya. Dan apabila jadwal panen setiap kelompoknya selama 1 bulan telah tersusun, maka pegawai KUD desa Mekarjaya akan memberitahukan jadwal panennya melalui SMS kepada semua kepala kelompok. Kemudian akan dilanjutkan kepada para anggotanya. Hal tersebut akan membuat proses komunikasi menjadi lama sehingga akan menghambat proses produksi kelapa sawit di desa Mekarjaya. Dan juga untuk melakukan penyimpanan data rincian produksi di desa Mekarjaya. PegawaiKUD masih mencatatsecaramanual danakandiarsipkandikantorKUD. Hal ini juga akan membuat pihak KUD desa Mekarjaya lebih sulit dalam memantau data-data rincian produksi setiap bulannya. Penelitian ini bertujuan untuk membuat sistem informasi berbasis website untuk mengelola informasi jadwal panen, pendapatan anggota, produksi kelompok, data anggota, dan data kelompok tani. Penelitian ini menggunakan metode waterfall yang mana dengan menggunakan metode ini sistem yang dibangun dapat disusun dan di implementasikan dengan baik. Melalui pengujian UAT (User Acceptance Test) yang sudah dilakukan, maka dapat diketahui bahwa semua fitur dari sistem informasi yang dibangun sudah berjalan sesuai dengan yang diharapkan.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Doni Setio Pambudi, S.Kom., M.Kom.

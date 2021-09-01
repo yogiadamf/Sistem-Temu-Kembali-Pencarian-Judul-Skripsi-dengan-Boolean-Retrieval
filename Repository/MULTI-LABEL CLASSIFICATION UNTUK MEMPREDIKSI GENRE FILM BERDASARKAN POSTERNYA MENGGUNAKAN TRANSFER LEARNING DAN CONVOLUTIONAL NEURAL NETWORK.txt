@@ -1,0 +1,10 @@
+MULTI-LABEL CLASSIFICATION UNTUK MEMPREDIKSI GENRE FILM BERDASARKAN POSTERNYA MENGGUNAKAN TRANSFER LEARNING DAN CONVOLUTIONAL NEURAL NETWORK (CNN). Undergraduate thesis, Universitas Internasional Semen Indonesia.Nur Adelia Balqis Gautama, 3011610040 (2020)
+
+
+Abstract
+Prediksi genre film menggunakan CNN telah dilakukan oleh beberapa peneliti yang menghasilkan accuracy yang rendah (Chu and Guo 2017; Shetty et al. 2020). Hal tersebut dapat diatasi dengan menerapkan transfer learning dalam algoritma CNN (Kundalia, Patel, and Shah 2020) sehingga penulis melakukan prediksi genre film berdasarkan posternya menggunakan transfer learning dan CNN. Langkah awal dalam penelitian ini adalah mengumpulkan data poster dan genre film lalu membangun beberapa model dengan menggunakan pre-trained model dan langkah akhir dalam penelitian ini adalah evaluasi masing-masing model. Penelitian ini menggunakan beberapa pre-trained model yang berbeda yaitu Alexnet, Densenet, Resnet, Squeezenet dan VGG. Penelitian ini menghasilkan nilai tertinggi accuracymacro&micro sebesar 0,92, precisionmacro sebesar 0,55, precisionmicro sebesar 0,53, recallmacro&micro sebesar 0,59, f1-scoremacro sebesar 0,39 dan f1- scoremicro sebesar 0,35. Nilai metrik accuracy, precision, recall dan f1-score yang dihasilkan dalam penelitian ini cukup baik daripada penelitian sebelumnya sehingga penerapan transfer learning dalam CNN memberikan pengaruh positif terhadap performa sebuah model.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.	
+Doni Setio Pambudi, S.Kom., M.Kom.

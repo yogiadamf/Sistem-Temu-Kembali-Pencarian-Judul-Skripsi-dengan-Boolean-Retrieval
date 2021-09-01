@@ -1,0 +1,9 @@
+ANALISIS KESUKSESAN SISTEM INFORMASI PADA APLIKASI MOBILE MYTELKOMSEL BERDASARKAN MODEL DELONE AND MCLEAN. Undergraduate thesis, Universitas Internasional Semen Indonesia.HALIM WAHYU HARTANTO, 3021510015 (2020)
+
+
+Abstract
+Aplikasi myTelkomsel adalah aplikasi yang dibangun oleh PT. Telekomunikasi Indonesia Tbk. yang digunakan untuk mempermudah penyampaian informasi, ide maupun penawaran terbaru bagi para pelanggannya. Tujuan dari penelitian ini adalah untuk mengetahui tingkat kesuksesan aplikasi myTelkomsel. Sedangkan model yang digunakan adalah model DeLone and McLean dengan variabel pengguna (use), kualitas layanan (service quality), kualitas informasi (information quality), kualitas sistem (system quality), kepuasan pengguna (user satisfaction) dan menggunakan tools SmartPLS 3.2.8. Berdasarkan hasil penelitian yang sudah dilakukan menunjukkan bahwa pengguna, kualitas layanan, kualitas informasi,dan kepuasan pengguna berpengaruh positif terhadap manfaat bersih yang diterima individu atau organisasi. Kualitas sistem tidak berpengaruh terhadap manfaat bersih.
+
+
+Dosen Pembimbing
+YOGANTARA SETYA DHARMAWAN, S.KOM , M.BusProcessMgt

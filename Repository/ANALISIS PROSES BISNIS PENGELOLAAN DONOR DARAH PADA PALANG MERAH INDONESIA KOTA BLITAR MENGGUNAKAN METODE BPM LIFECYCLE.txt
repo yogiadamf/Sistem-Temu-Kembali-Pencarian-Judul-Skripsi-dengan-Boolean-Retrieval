@@ -1,0 +1,10 @@
+ANALISIS PROSES BISNIS PENGELOLAAN DONOR DARAH PADA PALANG MERAH INDONESIA KOTA BLITAR MENGGUNAKAN METODE BPM LIFECYCLE. Undergraduate thesis, Universitas Internasional Semen Indonesia.Setya Suprayogi, 301610054 (2020)
+
+
+Abstract
+Palang Merah Indonesia (PMI) merupakan organisasi perhimpunan nasional di Indonesia yang bergerak dibidang sosial dan kemanusiaan. PMI Kota Blitar merupakan salah satu dari 37 kantor yang tersebar di wilayah provinsi Jawa Timur. Saat ini, PMI hanya mampu memenuhi 92% kebutuhan darah di Indonesia. Sedangkan 8% kebutuhannya dipenuhi oleh masyarakat yang sukarela langsung mendonorkan darahnya kepada yang membutuhkan. Penelitian ini bertujuan untuk melakukan analisis dan pemodelan proses bisnis yang dapat memberikan saran untuk perbaikan proses bisnis PMI Kota Blitar agar lebih efektif dan efisien. Langkah-langkah yang dilakukan dalam penelitian ini antara lain memodelkan proses bisnis menggunakan metode BPM Lifecycle, VA analysis, serta melakukan perhitungan cycle time.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt
+Catur Wulandari, S.Kom., M.Sc.

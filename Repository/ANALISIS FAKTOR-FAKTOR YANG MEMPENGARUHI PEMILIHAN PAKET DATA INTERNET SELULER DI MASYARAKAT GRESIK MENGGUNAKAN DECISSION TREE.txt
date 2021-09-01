@@ -1,0 +1,10 @@
+ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI PEMILIHAN PAKET DATA INTERNET SELULER DI MASYARAKAT GRESIK MENGGUNAKAN DECISSION TREE. Undergraduate thesis, Universitas Internasional Semen Indonesia.Asmaul Khusnah, 3011510009 (2019)
+
+
+Abstract
+Keberadaan internet dalam kehidupan sehari-hari memberikan akses informasi yang sangat luas. Beberapa hal dapat dilakukan dalam mengakses internet mulai dari belajar, belanja, berkomunikasi, bersosialisasi dan aktifitas lainnya. Untuk memudahkan dalam penggunaan internet salah satunya adalah disediakannya jenis pulsa paket data internet seluler oleh provider yang ada di Indonesia seperti Telkomsel, Indosat Ooredo, XL, Axis, dan Tri (3). Kebutuhan paket data internet seluler setiap orang berbeda-beda, seperti chatting, streaming, sosial media, bermain game, dan sebagainya. Banyaknya Jenis pulsa internet yang ditawarkan oleh provider membuat konsumen mengalami kebingungan dengan jenis pulsa internet yang akan mereka beli. Berdasarkan hal tersebut, kebutuhan jenis pulsa paket data internet setiap orang berbeda-beda, dan akan lebih baik lagi apabila kebutuhan jenis pulsa paket data internet yang dibeli bisa efektif bagi penggunanya. Sehingga perlu dilakukan analisa mengenai faktorfaktor yang mempengaruhi pemilihan data internet seluler yang cocok untuk konsumen dengan menggunakan metode Decision Tree. Sebelum implementasi dari Decision Tree dilakukan terlebih dahulu survei pada konsumen pengguna internet seluler di Gresik. Hasil implementasi dan analisis Decision Tree dapat digunakan untuk menganalisis faktor-faktor yang mempengaruhi pemilihan paket data yang memiliki akurasi sebesar 90,88%, dan tingkat presisi untuk mengetahui faktor fakor pemilihan paket internet diatas 80%. Hasil recall pada kartu perdana sebesar 99,64%, recall pada pulsa sebesar 74,10% dan recall pada voucher sebesar 98,82.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Ngatini, S.Si., M.Si.

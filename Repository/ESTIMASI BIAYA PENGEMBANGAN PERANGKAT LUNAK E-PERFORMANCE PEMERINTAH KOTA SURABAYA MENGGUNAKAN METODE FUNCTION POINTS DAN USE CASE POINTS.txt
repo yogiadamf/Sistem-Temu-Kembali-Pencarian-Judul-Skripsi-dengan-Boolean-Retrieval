@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PENGEMBANGAN PERANGKAT LUNAK E-PERFORMANCE PEMERINTAH KOTA SURABAYA MENGGUNAKAN METODE FUNCTION POINTS DAN USE CASE POINTS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Astrid Dyssa Rachmawati, 3021710011 (2021)
+
+
+Abstract
+Estimasi biaya perangkat lunak merupakan suatu tindakan yang memperkirakan atau memprediksi jumlah biaya dan effort atau usaha yang diperlukan untuk mengembangkan suatu perangkat lunak. Banyak metode yang telah dikembangkan oleh peneliti sebelumnya salah satunya adalah metode Function Points dan Use Case Points. Function Points (FP) memperkirakan biaya dihitung berdasarkan fungsi fitur perangkat lunak menurut pendapat user. Use Case Points (UCP) memperkirakan biaya dihitung berdasarkan dokumen Use Case Diagram. Ketika kita telah memperkirakan jumlah biaya yang dikeluarkan, maka kelebihan atau kekurangan biaya dapat diminimalisir. E–Performance merupakan aplikasi sistem informasi manajemen kinerja dalam rangka penilaian prestasi kinerja pegawai yang lebih objektif, terukur, akuntabel, partisipasif dan transparan sehingga terwujud manajemen pegawai berdasarkan prestasi kerja dan sistem karier kerja Aparatur Sipil Negara (ASN) di lingkungan Pemerintah Kota Surabaya. Pada aplikasi E–Performance ini juga telah terdapat perhitungan gaji berdasarkan aktivitas yang di inputkan oleh pegawai ASN. Dari perhitungan estimasi biaya dan usaha (effort) pada aplikasi E-Performance pemerintah Kota Surabaya menggunakan metode FP dan UCP menghasilkan metode FP dengan estimasi biaya Rp. 1.305.571.860 dan estimasi usaha 25.899,54 man/hour serta UCP dengan estimasi biaya Rp. 429.974.141,5 serta estimasi usaha 8.529,70 man/hour.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom., MCE.

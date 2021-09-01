@@ -1,0 +1,10 @@
+IMPLEMENTASI AUGMENTED REALITY APLIKASI MENU KAFE BERBASIS ANDROID DENGAN MENGGUNAKAN METODE MARKER BASED TRACKING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhamad Irfan Arisaldy, 3011510036 (2019)
+
+
+Abstract
+Kafe merupakan restoran namun lebih mengutamakan suasana santai, hiburan dan kenyamanan pengunjung. Permasalahan yang sering dihadapi oleh pengunjung kafe adalah tidak mendapatkan informasi dan gambaran menu yang jelas pada menu yang ditawarkan. Penelitian ini bertujuan untuk menghasilkan aplikasi yang dapat menyajikan gambaran menu kafe dan informasi pada menu kafe dengan menggunakan teknologi Augmented reality. Aplikasi ini Menggunakan metode Marker Based Tracking pada vuforia untuk membuat perangkat Android dapat mengenali nomor meja dan menciptakan dunia virtual 3D. Aplikasi ini dapat digunakan dengan memegang dan mengarahkan kamera yang ada pada perangkat Android ke marker yang ada dimeja, memilih menu kafe dengan memanfaatkan virtual button sebagai interaksi dan melihat informasi menu kafe. Aplikasi juga dapat melakukan proses pemesanan yang dapat dipantau melalui website pada komputer dan update status menu yang sedang dipesan. Hasil pengujian performa aplikasi mendapatkan kesimpulan marker yang relevan untuk aplikasi ini adalah 21 x 29 cm dengan pencahayaan 210 -300 lux. Pengujian sistem diuji dengan metode Black Box yang hasilnya dapat berjalan dalam berbagai kondisi. berdasarkan User Experience Testing aplikasi dapat meningkatkan pelayanan kafe karena pelanggan dapat mendapatkan informasi dan gambaran menu yang jelas pada menu yang ditawarkan.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.
+Taufiqotul Bariyah, S.Kom., M.IM.

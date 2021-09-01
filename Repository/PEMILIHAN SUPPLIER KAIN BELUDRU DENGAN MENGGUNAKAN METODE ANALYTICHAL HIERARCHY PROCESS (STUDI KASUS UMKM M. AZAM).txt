@@ -1,0 +1,10 @@
+PEMILIHAN SUPPLIER KAIN BELUDRU DENGAN MENGGUNAKAN METODE ANALYTICHAL HIERARCHY PROCESS (STUDI KASUS UMKM M. AZAM). Undergraduate thesis, Universitas Internasional Semen Indonesia.Burhanudin Yusuf Robbani, 2021610012 (2021)
+
+
+Abstract
+Pemilihan supplier bahan baku merupakan salah satu aktivitas dalam rangkain supply chain UMKM M. AZAM. Aktivitas ini dikategorikan dalam aktivitas strategis karena peran supplier akan turut menentukan kualitas produk yang dihasilkan oleh perusahaan, apabila bahan baku yang disediakan supplier buruk maka produk yang dihasilkan juga akan menurun kualitasnya. M.Azam merupakan usaha kecil menengah yang memproduksi songkok, dimana bahan baku utamanya adalah kain beludru. Saat ini perusahaan hanya memiliki dua alternatif supplier kain beludru dengan dua kriteria yaitu harga dan kualitas. Sehingga perlu alternatif supplier lain dengan kriteria kualitas, harga, jarak, pelayanan, pembayaran, kebijakan persediaan dan garansi/ kebijakan klaim. Pengolahan data dalam penelitian ini menggunakan salah satu metode Multi Criteria Decision Making yaitu metode Analitycal Hierarchy Process (AHP) dengan menggunakan software Expert Choice, hasil penelitian menggunakan metode AHP didapatkan supplier terbaik yaitu kios nina dengan nila tertinggi 0,300 atau 30% dari 4 alternatif supplier.
+
+
+Dosen Pembimbing
+Sekarsari Utami Wijaya, S.Stat., M.Si.
+Maulin Masyito Putri, S.T., M.T.

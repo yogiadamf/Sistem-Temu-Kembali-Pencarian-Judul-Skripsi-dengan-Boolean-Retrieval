@@ -1,0 +1,10 @@
+IDENTIFIKASI TULISAN TANGAN AKSARA JAWA PADA ANAK DENGAN MACHINE LEARNING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Ayunda Dwita Septyani, 3011510011 (2019)
+
+
+Abstract
+Bahasa Jawa merupakan salah satu warisan budaya yang tertua di negara Indonesia. Dalam dunia pendidikan bahasa Jawa menjadi salah satu muatan lokal. Salah satu kompetensi dasar yang ada dalam mata pelajaran bahasa Jawa adalah aksara Jawa. Aksara Jawa seringkali menjadi kompetensi yang sulit dimengerti dan dipahami oleh siswa. Siswa mengalami kesulitan dalam menghafal aksara Jawa karena mempunyai berbagai macam bentuk penulisan yang rumit, selain itu waktu untuk pembelajaran aksara Jawa sangat terbatas dan juga kurangnya media untuk pembelajaran aksara Jawa sehingga membuat guru tidak dapat menyelesaikan materi dengan baik dan penguasaan kompetensi baca maupun tulis aksara Jawa siswa sangat terbatas. Penelitian ini bertujuan untuk mengetahui performa dari algoritma machine learning dalam mengenali citra tulisan tangan aksara Jawa. Penelitian ini diawali dengan tahap pengumpulan data dari responden yang diminta untuk menyalin tulisan aksara Jawa sesuai dengan contoh. Kemudian prapemrosesan data, penerapan algoritma machine learning dengan menggunakan algortima k-NN dan Random Forest Classifier, pengukuran performa dan tahap yang terakhir pembuatan laporan. Dari hasil pengujian yang dilakukan terhadap data test diperoleh nilai akurasi untuk metode Random Forest Classifier (RFC) yang memiliki tingkat akurasi sebesar 59%, precision 64%, recall 59%, f-measure 59% dan untuk metode k-Nearest Neighbors memiliki tingkat akurasi sebesar 62%, precision 63%, recall 62%, f-measure 62%. Sehingga performa dari dua model tersebut dapat dikatakan optimal dalam mengklasifikasikan gambar tulisan tangan aksara Jawa.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.
+Taufiqotul Bariyah, S.Kom., M.IM.

@@ -1,0 +1,9 @@
+PREDIKSI PENDAPATAN FILM BERDASARKAN POSTERNYA MENGGUNAKAN DEEP LEARNING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Bintang Habib Setiawan, 3011610011 (2020) 
+
+
+Abstract
+Deep learning merupakan salah satu bidang dari machine learning yang memanfaatkan jaringan syaraf tiruan untuk implementasi permasalahan dengan dataset yang besar. Metode untuk memprediksi film beragam, seperti, prediksi rating film menggunakan metode naive bayes. Convolutional neural network (CNN) adalah salah satu metode deep learning yang mampu untuk mendeteksi dan mengenali informasi prediktif dari suatu objek. Penelitian ini bertujan untuk mengetahui penerapan CNN dalam memprediksi pendapatan film. Penulis menggunakan dataset gambar poster sebanyak 1000 gambar, yang di preprocessing menjadi ukuran gambar 32x32 pixel. Kemudian memproses gambar poster meggunakan deep learning, yaitu model CNN yang telah banyak digunakan untuk penelitian regresi. Penggunaan arsitektur layer CNN dalam penelitian ini menghasilkan akurasi MAPE sebesar 56%.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.

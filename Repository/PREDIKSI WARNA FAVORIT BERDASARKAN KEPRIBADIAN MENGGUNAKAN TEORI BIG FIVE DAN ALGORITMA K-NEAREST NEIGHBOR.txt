@@ -1,0 +1,10 @@
+PREDIKSI WARNA FAVORIT BERDASARKAN KEPRIBADIAN MENGGUNAKAN TEORI BIG FIVE DAN ALGORITMA K-NEAREST NEIGHBOR. Undergraduate thesis, Universitas Internasional Semen Indonesia.YANA FEBIRIZALDY, 3011510059 (2019) 
+
+
+Abstract
+Warna ternyata memiliki karakteristik dan mampu memberikan kesan, identitas, dan informasi tertentu sesuai dengan kondisi yang ada. Di dalam penelitian ini, warna akan digunakan untuk memberikan informasi tentang kepribadian yang nantinya akan diolah dengan tujuan untuk memprediksi warna favorit dari tiap individu. Penelitian ini menggunakan teori kepribadian Big Five untuk menilai kepribadian individu berdasarkan lima jenis kepribadian Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism dan dilakukan dengan teknik klasifikasi menggunakan algoritma K-Nearest Neighbor. Secara umum, metode penelitian dilakukan dengan beberapa tahapan, yaitu pengumpulan data, skoring menggunakan skala likert BFI, dan klasifikasi data. Proses klasifikasi data dengan algoritma KNN dengan menggunakan koptimal yaitu k=3. Akurasi dari algoritma KNN diuji menggunakan metode pengujian Mean Average Precision (mAP) diperoleh hasil akurasi Map@3 30,3114% dan Map@5 60,185%. Hasil akhir dari penelitian ini adalah sistem berbasis web untuk memprediksi warna favorit berdasarkan kepribadian.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Mohammad Arif Rasyidi, S.Kom., M.Sc.

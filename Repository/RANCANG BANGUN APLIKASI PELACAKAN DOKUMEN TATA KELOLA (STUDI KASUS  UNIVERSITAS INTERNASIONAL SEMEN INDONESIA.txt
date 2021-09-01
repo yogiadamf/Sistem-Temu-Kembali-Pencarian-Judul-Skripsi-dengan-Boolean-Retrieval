@@ -1,0 +1,9 @@
+RANCANG BANGUN APLIKASI PELACAKAN DOKUMEN TATA KELOLA (STUDI KASUS: UNIVERSITAS INTERNASIONAL SEMEN INDONESIA). Undergraduate thesis, Universitas Internasional Semen Indonesia.Sari Setyaningsih, 3021710048 (2021) 
+
+
+Abstract
+Hampir semua sektor kehidupan memerlukan teknologi untuk mendukung berbagai aktivitas, salah satunya dalam sektor pendidikan. Peran teknologi dalam sektor pendidikan dapat meningkatkan efisiensi proses bisnis yang berlangsung di organisasi. Adaptasi proses bisnis dapat membawa suatu instansi menjadi lebih baik lagi, ditambah perkembangan zaman menuntut segala aspek kehidupan untuk beradaptasi. Proses adaptasi dalam universitas yang ditekankan saat ini ialah bagaimana membuat dokumen lebih paperless dan penyususnan dokumen lebih tersistem sesuai dengan konsep paperless office. Universitas Internasional Semen Indonesia (UISI) merupakan suatu instansi pendidikan yang berfokus pada inovasi guna mendukung perkembangan bangsa. Dari tahun ke tahun peningkatan proses bisnis di UISI selalu dilakukan. Hal ini terbukti dari munculnya sistem monitoring tugas akhir (MONITA), MASTERPIECE, dan Perpustakaan UISI. Peningkatan proses bisnis tentunya tidak hanya berhenti sampai disitu dikarenakan dari penelitian terdahulu masih terdapat permasalahan dari pengelolaan dokumen yang belum memanfaatkan framework teknologi. Melalui penelitian ini, peneliti berupaya membangun suatu sistem pengelolaan dokumen untuk mendukung pengelolaan dokumen. Luaran yang dihasilkan dalam penelitian ini ialah sebuah mobile Android application bernama UISI Document Tracer yang mampu mengkategorikan dokumen mejadi 5 (lima) instrumen dokumen tata kelola yaitu manual, kebijakan, panduan, prosedur, dan formulir.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom., MCE.	

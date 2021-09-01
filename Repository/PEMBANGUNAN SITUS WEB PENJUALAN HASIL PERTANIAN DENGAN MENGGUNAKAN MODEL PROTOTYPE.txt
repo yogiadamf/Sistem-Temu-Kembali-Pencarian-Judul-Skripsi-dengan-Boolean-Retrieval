@@ -1,0 +1,11 @@
+PEMBANGUNAN SITUS WEB PENJUALAN HASIL PERTANIAN DENGAN MENGGUNAKAN MODEL PROTOTYPE. Undergraduate thesis, Universitas Internasional Semen Indonesia.Moh. Ahsanul Fatikhin, 3011510035 (2019)
+
+
+Abstract
+Saat ini para petani rata-rata menjual hasil-hasil pertanianya kepada tengkulak dan tidak langsung menjualnya kepada pembeli. Hal tersebut mengakibatkan para petani memperoleh penghasilan yang tidak sebesar ketika menjualnya langsung kepada pembeli. Saat ini sudah ada beberapa situs web yang bergerak di bidang pertanian, tetapi menurut survey yang dilakukan oleh penulis, situs web terutama yang bergerak di bidang pertanian masih belum banyak digunakan oleh petani karena proses bisnis yang cukup sult ketika di gunakan. Oleh karena itu penulis ingin menawarkan solusi agar petani bisa menjual hasil-hasil panennya langsung kepada pembeli dengan cara membangun situs web penjualan hasil-hasil pertanian dengan proses bisnis bisnis yang mudah di gunakan oleh petani karena menggunakan metode User Centered Desain (UCD) dan metode pengujian kualitas perangkat lunak McCall. Dari hasil pengujian McCall, nilai dari segi Usability adalah 91%, dengan demikian dapat disimpulkan jika situs web pertanian sangat layak dari segi Usability
+
+
+Dosen Pembimbing
+Puji Andayani, S.Si., M.Si., M.Sc.
+Ruktin Handayani, S.Kom., M.Kom.	
+Taufiqotul Bariyah, S.Kom., M.IM.

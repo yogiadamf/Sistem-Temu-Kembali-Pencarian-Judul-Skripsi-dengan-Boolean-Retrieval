@@ -1,0 +1,10 @@
+RANCANG BANGUN APLIKASI PENCATATAN KEUANGAN DENGAN MENGGUNAKAN METODE PROTOTYPING (STUDI KASUS: UMKM TOKO BUNGA). Undergraduate thesis, Universitas Internasional Semen Indonesia.Endik Bagus Wiyanto, 3011610015 (2020)
+
+
+Abstract
+CV Podo Joyo merupakan badan usaha milik perorangan yang menjual macam – macam Tanaman: Tanaman hias, Tanaman buah-buahan, Tanaman Toga, Pupuk: Pupuk Organik, Tanah taman. Pot: Pot batu, Pot kramik, Pot tanah liat, Pot plastik. Air mancur, Batu alam, Obat-obatan. Saat ini, proses transaksi data keuangan pada CV Podo Joyo telah menggunakan aplikasi spreadsheet untuk memanajemen transaksi keuangan yang terjadi. Namun penggunaan aplikasi spreadsheet tersebut dianggap belum efektif dan efisien karena penanganan proses rekapitulasi transaksi masih dilakukan secara manual. Ini merupakan masalah yang dirasakan khususnya oleh pemilik. Hasil dari studi kasus yang saya temukan sistem informasi keuangan dapat mempermudah aktivitas transaksi penjualan sehingga menghasilkan informasi yang dibutuhkan oleh Toko Hijau. Melihat permasalahan ini, maka dalam penelitian ini dirancang Aplikasi Pencatatan Keuangan toko berbasis web dengan harapan dapat memberikan manfaat untuk pemilik pada CV Podo Joyo. Model pengembangan prototype terdiri dari: 1) Pengumpulan Kebutuhan; 2) Perancangan; dan 3) Evaluasi Prototype. Hasil pengujian usabilitas menggunakan kuesioner WEBUSE menunjukkan usabilitas pada Aplikasi Pencatatan Keuangan mencapai level good. Nilai usabilitas meliputi Content Organization and Readability (0.65 poin), Navigation and Links (0.62 poin), Design User Interface (0.62 poin), dan Performance and Effectiveness (0.62 poin).
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom	
+Ruktin Handayani, S.Kom., M.Kom

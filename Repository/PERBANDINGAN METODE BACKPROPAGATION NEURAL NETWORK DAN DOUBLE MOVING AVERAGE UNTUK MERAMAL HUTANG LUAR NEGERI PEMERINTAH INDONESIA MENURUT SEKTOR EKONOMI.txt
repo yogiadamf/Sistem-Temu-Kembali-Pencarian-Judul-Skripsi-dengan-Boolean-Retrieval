@@ -1,0 +1,9 @@
+PERBANDINGAN METODE BACKPROPAGATION NEURAL NETWORK DAN DOUBLE MOVING AVERAGE UNTUK MERAMAL HUTANG LUAR NEGERI PEMERINTAH INDONESIA MENURUT SEKTOR EKONOMI. Undergraduate thesis, Universitas Internasional Semen Indonesia.Azwar Anshori Putra Biyatama, 3021510006 (2019)
+
+
+Abstract
+Indonesia merupakan negara berkembang yang sedang gencar-gencarnya membangun negeri ini baik SDM, Ekonomi, maupun ekonomi. Dalam pembangunan ini tentunya memerlukan modal yang tidaklah sedikit, salah satu cara untuk memenuhi kebutuhan pembangunan tersebut yakni dengan cara hutang ke penyedia kreditur dari luar negeri. Maka dari itu pemerintah Republik Indonesia harus cermat dalam mengalokasikan dana APBN agar nantinya APBN akan terserap secara maksimal untuk pembelanjaaan negara dalam bidang pengembangan SDM, pengelolaan ekonomi, maupun pembangunan insfrastruktur. Dalam pelaksanaan pengembangan dan pembangunan diatas, masyarakat harus tahu darimana sumber dana yang digunakan Pemerintah, baik pada tahun sebelum dan sesudahnya, sehingga dapat mengontrol kebijakan yang ditetapkan pemerintah. Penelitian ini bertujan untuk meramalkan hutang pemerintah Republik Indonesia yang diperoleh dari kreditur luar negeri dengan metode Backpropagation Neural Network dan Double Moving Average serta membandingkan dua metode tersebut, manakah yang menghasilkan peramalan yang lebih bagus dalam penelitian ini. Hasil dari penelitian ini menunjukan bahwa peramalan menggunakan metode Double Moving Average menghasilkan nilai error yang lebih rendah dibanding dengan metode Backpropagation Neural Network. hal ini dibuktikan dengan metode Double Moving Average menghasilkan nilai MAPE 3.13%, sedangkan metode Backpropagation Neural Network menghasilkan nilai MAPE 3.80%.
+
+
+Dosen Pembimbing
+Brina Miftahurrohmah, S.Si., M.Si.

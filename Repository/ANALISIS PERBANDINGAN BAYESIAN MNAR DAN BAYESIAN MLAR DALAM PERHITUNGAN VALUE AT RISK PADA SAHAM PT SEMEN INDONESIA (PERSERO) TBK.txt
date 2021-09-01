@@ -1,0 +1,9 @@
+ANALISIS PERBANDINGAN BAYESIAN MNAR DAN BAYESIAN MLAR DALAM PERHITUNGAN VALUE AT RISK PADA SAHAM PT SEMEN INDONESIA (PERSERO) TBK. Undergraduate thesis, Universitas Internasional Semen Indonesia.Vista Firdaus, 3021710052 (2021)
+
+
+Abstract
+Saham merupakan bukti kepemilikan atas segala pendapatan dan kekayaan perusahaan. Saham juga tergolong kedalam intrumen investasi jangka panjang. Saham memiliki karakteristik high risk high return, yang mana semakin tinggi risiko yang dihadapi oleh investor dalam menanamkan sahamnya pada suatu perusahaan, maka semakin tinggi pula return yang didapatnya. Pada sepanjang tahun 2020 seluruh belahan dunia dihadapkan pada suatu pandemi yaitu Covid 19. Terjadinya pandemi Covid 19 ini memberikan dampak negatif terhadap perkembangan perekonomian dunia termasuk Indonesia. Banyak perusahaan dari berbagai sektor industri berusaha untuk tetap survive dari terjangan pandemi Covid 19. Namun berdasarkan berita yang diterbitkan pada tanggal 14 Desember 2020, Indonesia dinilai akan mengalami pemulihan perekonomian setelah vaksin Covid 19 sampai ke Indonesia. PT Semen Indonesia (Persero) Tbk sebagai salah satu emiten semen terbesar di tanah air menjadi salah satu perusahaan yang terkena dampak positif pemulihan perekonomian ini. Namun apakah dengan terjadinya pemulihan perekonomian akan membuat risiko investasi pada saham PT Semen Indonesia (Persero) Tbk di nilai kecil. Oleh sebab itu perlu dilakukan analisis risiko investasi saham. Pengukuran risiko dilakukan dengan menggunakan metode Value at Risk melalui pendekatan Bayesian MNAR dan MLAR. Hasil analisis menunjukkan adanya perbedaan tingkat risiko pada masing-masing pendekatan. Bayesian MNAR memiliki tingkat risiko yang lebih tinggi dibandingkan Bayesian MLAR pada confidence interval 99%. Sedangkan Bayesian MLAR memiliki tingkat risiko yang lebih tinggi dibandingkan Bayesian MNAR pada confidence interval 95%.
+
+
+Dosen Pembimbing
+Brina Miftahurrohmah, S.Si., M.Si., MCE.

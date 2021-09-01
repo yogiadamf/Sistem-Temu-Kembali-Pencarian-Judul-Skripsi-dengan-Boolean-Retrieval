@@ -1,0 +1,9 @@
+ANALISIS PROSES BISNIS DENGAN METODE BPM LIFE-CYCLE (STUDI KASUS: UMKM PRODUKSI OTAK-OTAK BANDENG). Undergraduate thesis, Universitas Internasional Semen Indonesia.Satria Reza Anugrah, 3021610046 (2020) 
+
+
+Abstract
+UMKM adalah sebuah usaha produktif yang dimiliki perorangan maupun badan usaha yang memenuhi kriteria sebagai badan usaha dan berperan sangat besar dalam kemajuan perekonomian di Indonesia serta mempunyai tingkat penyerapan tenaga kerja sekitar 97% dari seluruh tenaga kerja nasional. Salah satunya adalah pada UMKM Otak–Otak Bandeng di kota Gresik yang dimana produknya menjadi salah satu khas di kota tersebut. UMKM ini memiliki masalah pada lamanya proses pembuatan Otak-Otak Bandeng. Karena dari beberapa masalah yang dihadapi untuk menunjang kebutuhan dari produk yang lebih efisien maka peneliti tertarik mengkaji dan meneliti permasalahan yang ada pada UMKM Otak-Otak Bandeng di kota gresik tentang “Analisis Proses Bisnis dengan metode BPM lifecyle Studi Kasus pada UMKM Otak–Otak Bandeng”. Tujuan dari penelitian ini untuk mengetahui bagaimana hasil dari analisis proses bisnis yang ada pada UMKM Otak–Otak Bandeng tersebut, apakah sudah sesuai dengan jalannya proses bisnis itu sendiri dan sesuai dengan harapan. Metode yang digunakan dalam penelitian ini yaitu BPM Lifecycle dengan tools yang digunakan yaitu signavio, VA analisis (Value Added Analysis dan Non Value Added Analysis), Manufacturing Cycle Effectiveness yang didapatkan dari perbandingan antara Processing Time dengan Cycle Time, serta sebuah gambaran proses bisnis pemodelan dengan menggunakan BPMN 2.0 dan solusi dari perhitungan yang telah dilakukan pada hasil akhir.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt

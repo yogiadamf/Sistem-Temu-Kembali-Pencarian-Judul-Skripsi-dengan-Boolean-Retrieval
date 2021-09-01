@@ -1,0 +1,9 @@
+MULTI LABEL CLASSIFICATION UNTUK MENDETEKSI GENRE DAN ASAL KOMIK BERDASARKAN COVERNYA MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN) DAN TRANSFER LEARNING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Ilham Maulana, 3011610033 (2020)
+
+
+Abstract
+Komik adalah media untuk mengekspresikan sebuah ide berupa gambar-gambar yang tersusun dengan tujuan menjelaskan sebuah cerita. Saat ini komik mudah ditemukan di media online atau di toko buku terdekat, komik cepat populer di banyak kalangan mulai anak-anak sampai dewasa. Gambar di dalam komik bisa membawa pembaca membayangkan dan berimajinasi bagaimana jika gambar itu bisa divisualisasikan secara nyata. Banyaknya pilihan genre dan serunya cerita di dalam setiap komik dikemas dengan sebuah cover yang sangat berwarna-warni dan menarik mata untuk dilihat. Tetapi ada beberapa genre yang dikhususkan untuk pembaca yang dewasa. Untuk mengkategorikan genre komik dan asal komik itu masih memerlukan kemampuan manusia yaitu dengan membacanya lalu memahami jalan ceritanya. Oleh karena itu tujuan penelitian ini adalah mendeteksi genre dan asal komik berdasarkan covernya, agar orang tua bisa memantau komik yang cocok untuk anak seusianya. Penelitian ini menggunakan 2 metode yaitu Convolutional Neural Network (CNN) dan Transfer Learning. Penelitian ini menggunakan 2 klasifikasi yang berbeda, pertama menggunakan Multi-Class Classification untuk mendeteksi asal komik, kedua menggunakan Multi-Label Classification untuk mendeteksi genre komik.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.

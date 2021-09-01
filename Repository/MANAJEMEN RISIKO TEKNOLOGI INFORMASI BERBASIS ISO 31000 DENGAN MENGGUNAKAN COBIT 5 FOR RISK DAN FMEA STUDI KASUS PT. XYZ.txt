@@ -1,0 +1,9 @@
+MANAJEMEN RISIKO TEKNOLOGI INFORMASI BERBASIS ISO 31000 DENGAN MENGGUNAKAN COBIT 5 FOR RISK DAN FMEA (STUDI KASUS PT. XYZ). Undergraduate thesis, Universitas Internasional Semen Indonesia.Finandy Ari Hardianto, 3021610023 (2021)
+
+
+Abstract
+PT. XYZ merupakan perusahaan yang bergerak dalam penyedia layanan ISP (Internet Service Provider) dan jasa kebutuhan layanan TI lainnya yang berkembang pesat di Kota Balikpapan, Kalimantan Timur. Namun saat ini PT. XYZ belum menerapkan manajemen risiko, sehingga dikhawatirkan dapat mengurangi kinerja perusahaan jika tidak ditangani secepatnya. Berdasarkan studi kasus di atas, maka dibuatlah penelitian ini mengenai manajemen risiko teknologi informasi dengan menggunakan framework COBIT 5 for risk dan FMEA berbasis ISO 31000. Dengan masing-masing keunggulan framework yang ditawarkan seperti COBIT 5 for risk yang unggul dalam identifikasi risiko, FMEA dalam proses analisis risiko, dan ISO 31000 yang merupakan standar manajemen risiko yang paling banyak digunakan di berbagai perusahaan. Dari penelitian ini, dihasilkan suatu panduan atau gambaran mengenai proses manajemen risiko khususnya dengan menggabungkan beberapa framework manajemen risiko. Sehingga diharapkan bagi perusahaan atau pembaca penelitian ini dapat memberikan referensi mengenai manajemen risiko.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MbusProcessMgt., MCE

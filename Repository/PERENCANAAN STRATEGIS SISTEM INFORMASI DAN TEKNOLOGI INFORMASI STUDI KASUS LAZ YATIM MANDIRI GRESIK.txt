@@ -1,0 +1,9 @@
+PERENCANAAN STRATEGIS SISTEM INFORMASI DAN TEKNOLOGI INFORMASI (STUDI KASUS:LAZ YATIM MANDIRI GRESIK). Undergraduate thesis, Universitas Internasional Semen Indonesia.Elok Tiara Cahya Septi, 3021610019 (2020)
+
+
+Abstract
+LAZ Yatim Mandiri merupakan suatu organisasi nonprofit yang bergerak dalam pengelolaan zakat. Pemanfaatan teknologi informasi pada LAZ Yatim Mandiri telah diterapkan dengan baik. Kegiatan operasional sebagian telah terkomputerisasi, pengolahan data juga telah terintegrasi dengan cukup baik, namun masih terdapat aktivitas pada LAZ Yatim Mandiri yang masih menggunakan cara manual serta masih belum terdapat perencanaan SI/TI untuk masa yang akan datang. Dengan demikian, LAZ Yatim Mandiri membutuhkan perencanaan strategis sistem informasi yang dapat memaksimalkan kinerja seluruh kegiatan oprasional pada LAZ Yatim Mandiri. Penelitian ini bertujuan untuk membuat perencanaan strategis sistem informasi yang selaras dengan tujuan dan kebutuhan organisasi menggunakan metode Ward and Peppard. Metode ini merupakan metode yang bertujuan untuk menghasilkan strategi SI/TI yang selaras dengan tujuan dan kebutuhan organisasi. Hasil dari penelitian ini akan menghasilkan sebuah portofolio modul serta pengembangan teknologi informasi yang dapat diimplementasikan oleh LAZ Yatim Mandiri dimasa yang akan datang.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom.,M.kom

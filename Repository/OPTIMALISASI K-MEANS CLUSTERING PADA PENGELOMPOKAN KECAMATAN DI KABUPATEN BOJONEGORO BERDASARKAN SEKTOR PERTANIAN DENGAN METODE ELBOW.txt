@@ -1,0 +1,10 @@
+OPTIMALISASI K-MEANS CLUSTERING PADA PENGELOMPOKAN KECAMATAN DI KABUPATEN BOJONEGORO BERDASARKAN SEKTOR PERTANIAN DENGAN METODE ELBOW. Undergraduate thesis, Universitas Internasional Semen Indonesia.Agung Kurniawan, 3021610003 (2020)
+
+
+Abstract
+Kabupaten Bojonegoro merupakan kabupaten yang memiliki sumber daya pertanian yang cukup besar jika dibandingkan dengan rata-rata kabupaten atau kota yang berada di Provinsi Jawa Timur. Dengan adanya potensi tersebut, Pemerintah Kabupaten Bojonegoro perlu mengembangkan komoditas pertanian unggulan yang ada di setiap kecamatan yang berada di Kabupaten Bojonegoro. Salah satu cara untuk memudahkan Pemerintah Kabupaten Bojonegoro dalam mengembangkan potensi di sektor pertanian adalah dengan analisis klaster. Pada penelitian ini penulis bertujuan untuk melakukan pengelompokan kecamatan di Kabupaten Bojonegoro berdasarkan variabel sektor pertanian dengan menggunakan K-Means Clustering dengan pendekatan metode Elbow untuk menentukan jumlah klaster yang akan terbentuk. Data yang digunakan pada penelitian kali ini adalah data pertanian Kabupaten Bojonegoro tahun 2018 yang didapatkan dari Badan Pusat Statistika Kabupaten Bojonegoro. Hasil dari pengelompokan 28 kecamatan yang ada di Kabupaten Bojonegoro dengan metode K-Means Clustering dan juga metode Elbow dapat dikelompokkan menjadi 7 kelompok, dan hasil dari pengujian One-way MANOVA, pengelompokan memiliki perbedaan nilai pada sebagian besar variabel yang membentuknya.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.
+Brina MIftahurrohmah, S.Si., M.Si.

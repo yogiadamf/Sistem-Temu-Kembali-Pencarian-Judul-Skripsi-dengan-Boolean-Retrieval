@@ -1,0 +1,9 @@
+PENJADWALAN SATPAM DILINGKUP SEMEN INDONESIA FOUNDATION (SMIF) DENGAN ALGORITMA HILL CLIMBING (RANDOM-RESTART STEEPEST-ASCENT). Undergraduate thesis, Universitas Internasional Semen Indonesia.Tanfirul Nur Lailli Muhammad, 3011510045 (2019) 
+
+
+Abstract
+Keamanan dilingkup Semen indonesia foundation (SMIF) memiliki banyak satpam dan lokasi jaga yang tersebar di Gresik. namun terkadang jumlah satpam tidak seimbang dengan shift dan penempatan yang ada. ditambah permasalahan pembuatan jadwal ini yang membutuhkan waktu selama 1 minggu hanya untuk menghasilkan 1 bulan jadwal. dikarenakan koordinator satpam yang membuat jadwal ini masih menggunakan cara manual dikertas lalu menyalinnya kembali di excel. yang membutuhkan waktu cukup lama karena adanya standar Operasional Prosedur(SOP) yang banyak dan rumit untuk diikuti agar tersebarnya satpam ke lokasi jaga dan shift untuk 1 bulan dapat memadahi. untuk menanggulangi hal tersebut maka dibuatlah ide untuk menjadwalkan satpam dengan penempatan yang ada secara otomatis dengan bantuan metode Hill Climbing(Random-Restart Steepest-Ascent) didalam program yang dibuat agar mempermudah pemilihan satpam disetiap lokasi jaga dan shiftnya. Kemudian kemampuan merepresentasikan SOP-SOP satpam yang ada ke dalam parameter-parameter didalam program menjadi salah satu kunci keberhasilan pembuatan penjadwalan ini. Sehingga nantinya lingkungan SMIF selalu tetap terjaga keamanan dan ketertibannya.
+
+
+Dosen Pembimbing
+Puji Andayani, S.Si., M.Si., M.Sc.

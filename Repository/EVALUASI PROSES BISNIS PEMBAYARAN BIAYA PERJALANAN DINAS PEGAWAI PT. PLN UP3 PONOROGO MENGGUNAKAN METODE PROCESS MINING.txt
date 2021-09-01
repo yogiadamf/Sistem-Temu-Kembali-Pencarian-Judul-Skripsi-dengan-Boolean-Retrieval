@@ -1,0 +1,10 @@
+EVALUASI PROSES BISNIS PEMBAYARAN BIAYA PERJALANAN DINAS PEGAWAI PT. PLN UP3 PONOROGO MENGGUNAKAN METODE PROCESS MINING. Undergraduate thesis, Universitas Internasional Semen Indonesia.Muhammad Nur Habibi, 3021610037 (2021) 
+
+
+Abstract
+PT. PLN (Persero) merupakan perusahaan di bawah naungan Badan Usaha Milik Negara (BUMN) yang bergerak di bidang ketenagalistrikan. Salah satu proses bisnis yang akan dilakukan evaluasi adalah proses bisnis pembayaran restitusi perjalanan dinas pegawai PT. PLN UP3 Ponorogo. Proses bisnis tersebut merupakan jembatan untuk pembayaran restitusi perjalanan dinas pegawai yang ditanggung oleh perusahaan dan dibayarkan kepada pegawai yang bersangkutan. Data yang dikelola berupa informasi keuangan dan berhubungan dengan administrasi sumber daya manusia (SDM). Dalam melakukan evaluasi proses bisnis digunakan metode process mining. Process mining merupakan salah satu metode dalam menganalisis suatu proses bisnis mulai dari aktivitas, frekuensi kejadian, dan performa waktu proses tersebut. Process mining dilakukan dengan aplikasi Disco: Process Mining Tools. Setelah data event log diimpor ke dalam Disco, didapatkan model proses dan statistik dari proses bisnis. Dari data tersebut dilakukan validasi terhadap Bagian SDM PLN UP3 Ponorogo. Hasil yang didapatkan yaitu ditemukan data yang tidak valid pada model proses dan ditemukan bottleneck pada model proses. Data yang tidak valid dilakukan eliminasi agar didapatkan model proses bisnis yang sesuai dengan prosedur proses bisnis pembayaran restitusi perjalanan dinas. Bottleneck pada model proses disebabkan adanya penumpukan aktivitas dalam rentang waktu tertentu. Selain itu, dari model proses yang didapat dari event log terdapat ketidaksesuain dengan prosedur yang dilaksanakan. Hal ini disebabkan adanya aktivitas manual yang tidak tercatat pada data event log sehingga model proses yang didapatkan hanya berisikan aktivitas yang tercatat pada data event log.
+
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., M.BusProcessMgt.

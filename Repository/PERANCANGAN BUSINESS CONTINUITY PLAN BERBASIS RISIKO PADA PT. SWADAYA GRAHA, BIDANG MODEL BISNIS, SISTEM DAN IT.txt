@@ -1,0 +1,9 @@
+PERANCANGAN BUSINESS CONTINUITY PLAN BERBASIS RISIKO PADA PT. SWADAYA GRAHA, BIDANG MODEL BISNIS, SISTEM DAN IT. Undergraduate thesis, Universitas Internasional Semen Indonesia.Widya Sayekti, 3021510031 (2019)
+
+
+Abstract
+PT. Swadaya Graha, Bidang Model Bisnis, Sistem dan IT memiliki manajemen risiko yang telah diterapkan pada perusahaannya, namun walaupun telah memiliki manajemen risiko yang dapat membantu perusahaan untuk mengurangi atau meminimalisasi terjadinya risiko sebelum terjadinya bencana, perusahaan belum memiliki perencanaan keberlangsungan bisnis atau Business Continuity Plan (BCP). PT. Swadaya Graha Bidang Model Bisnis, Sistem dan IT membutuhkan BCP dengan tujuan menghadapi risiko-risiko yang muncul setelah terjadinya bencana yang memiliki fokus utama terhadap bagaimana menjamin kontinuitas dari bisnis ketika kehilangan akses terhadap manusia, fasilitas, sistem informasi, layanan dan sumber daya. Penelitian bertujuan untuk merancangan BCP yang sesuai dengan kebutuhan dari PT. Swadaya Graha, Bidang Model Bisnis, Sistem dan IT dengan menggunakan kerangka kerja ISO 22301:2012. Metode yang digunakan untuk memperoleh data pada penelitian adalah metode studi pustaka atau dokumen, wawancara dan observasi dengan menggunakan ISO 22301:2012 pada BCP. Hasil dari penelitian akan menghasilkan sebuah rancangan dokumen BCP yang telah terverifikasi dan tervalidasi oleh PT. Swadaya Graha Bidang Model Bisnis, Sistem dan IT.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt.

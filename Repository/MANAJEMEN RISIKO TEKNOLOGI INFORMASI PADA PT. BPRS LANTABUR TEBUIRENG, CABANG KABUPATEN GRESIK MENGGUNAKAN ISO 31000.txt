@@ -1,0 +1,8 @@
+MANAJEMEN RISIKO TEKNOLOGI INFORMASI PADA PT. BPRS LANTABUR TEBUIRENG, CABANG KABUPATEN GRESIK MENGGUNAKAN ISO 31000. Undergraduate thesis, Universitas Internasional Semen Indonesia.Safira Firdausa, 3021610045 (2020) 
+
+Abstract
+Teknologi merupakan pengaruh penting bagi kemajuan sistem informasi bagi suatu perusahaan. Hal ini tidak terlepas dengan semakin tajamnya persaingan antar perusahaan perbankan. Maka dari itu perusahaan perlu menerapkan suatu teknologi informasi pada bank. Dengan menerapkan teknologi informasi, manajemen sebuah bank dapat dilakukan dengan lebih efisien dan tentunya dampak yang didapat oleh para nasabah adalah semakin mudahnya dalam melakukan transaksi. Hal tersebut sudah diterapkan pada PT. Bank Pembiayaan Rakyat Syariah (BPRS). Saat sedang melakukan transaksi tentunya akan terjadi peluang timbulnya risiko yang menghambat alur proses bisnis dari perusahaan tersebut. Risiko yang berpeluang terjadi berasal dari berbagai faktor seperti, faktor alam, sistem/infrastruktur dan manusia. Dengan melakukan analisis risiko maka dampak negatif dari risiko tersebut dapat diminimalisasi. Metode yang dapat digunakan untuk menganalisis risiko pada PT. BPRS Lantabur Tebuireng, cabang Kabupaten Gresik adalah dengan framework ISO 31000. Implementasi tersebut meliputi mengidentifikasi risiko, analisis risiko dan evaluasi risiko. Dari hasil implementasi tersebut akan memperoleh solusi penanganan dampak risiko.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt.

@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PROYEK PENGEMBANGAN PERANGKAT LUNAK PADA DINAS PEKERJAAN UMUM DAN TATA RUANG KABUPATEN GRESIK DENGAN MENGGUNAKAN METODE FUNCTION POINTS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Weindy Putri Ariyanti, 3021610053 (2020)
+
+
+Abstract
+Seiring dengan waktu penggunaan teknologi informasi semakin berkembang pesat, membuat banyaknya proyek pengembangan perangkat lunak yang bermunculan disemua bidang, termasuk pada bidang pemerintahan. Permasalahan yang sering muncul dalam pengembangan suatu proyek pada perangkat lunak adalah tidak adanya standar dalam perhitungan estimasi effort (usaha) dan biaya hanya sebatas perkiraan atau Guesstimate (angka perkiraan). Melihat begitu pentingnya estimasi biaya dalam pengembangan proyek perangkat lunak untuk mendapatkan akurasi yang akurat, salah satu metode yang dapat digunakan adalah metode Function Points (FP). Di sisi lain, sudah banyak penelitian yang membahas dan menguji metode estimasi effort (usaha) tersebut, salah satunya adalah FP. Metode FP dipengaruhi oleh 5 komponen utama dan 14 item faktor kompleksitas relatif. Kemudian penulis menguji metode FP tersebut pada proyek pengembangan 4 (empat) perangkat lunak dibidang pemerintahan. Ada beberapa alur penelitian yang digunakan oleh penulis yaitu tahap pertama studi literatur, tahap kedua melakukan observasi dan pengumpulan data, tahap ketiga menganalisis aplikasi mobile, tahap yang kempat melakukan perhitungan ukuran menjadi effort, selanjutnya tahap yang terakhir yaitu distribusi effort dan estimasi biaya. Dari 4 perangkat lunak yang dikembangkan oleh Dinas Pekerjaan Umum dan Tata Ruang Kabupaten Gresik, maka biaya yang harus dikeluarkan sebesar Rp. 173.997.489 dengan menghasilkan effort senilai 4.741,07 orang/jam.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom

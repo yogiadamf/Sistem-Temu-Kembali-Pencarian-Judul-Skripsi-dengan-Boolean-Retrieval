@@ -1,0 +1,10 @@
+RANCANG BANGUN APLIKASI PEMBAYARAN SUMBANGAN PEMBINAAN PENDIDIKAN (SPP) BERBASIS WEB PADA SMK PGRI 1 LAMONGAN. Undergraduate thesis, Universitas Internasional Semen Indonesia.Marsekal Dadrian Setyayudha, 3021610031 (2020)
+
+
+Abstract
+SMK PGRI 1 Lamongan merupakan salah satu lembaga pendidikan yang perlu dan harus memiliki pengelolaan manajemen yang efektif dan efisien dalam hal mengelola administrasi sekolah. Salah satu fungsi administrasi sekolah adalah pengelolaan data pembayaran Sumbangan Pembinaan Pendidikan (SPP) siswa. SPP adalah biaya yang dibebankan kepada siswa untuk membantu lembaga pendidikan dalam meningkatkan pelayanan dan memberikan fasilitas yang terbaik bagi siswa. Adanya kepentingan peningkatan pelayanan dan fasilitas, maka informasi yang disediakan harus akurat, relevan, dan tepat waktu. Pengelolaan data pembayaran SPP pada SMK PGRI 1 Lamongan masih dilakukan secara konvensional dengan cara mencatat pembayaran pada kartu pembayaran siswa dan direkap pada buku besar pihak sekolah. Pengelolaan data pembayaran SPP yang dilakukan secara konvensional telah dianggap tidak efisien saat ini. Seiring dengan berkembangnya ilmu pengetahuan dan teknologi, SMK PGRI 1 Lamongan memerlukan sebuah sistem baru guna mengelola data pembayaran SPP siswa supaya lebih efektif dan efisien dengan menggunakan teknologi komputer yaitu berupa aplikasi pembayaran yang dapat dengan cepat menerima, merekapitulasi dan melaporkan pembayaran SPP. Aplikasi pembayaran SPP ini dirancang dan dibangun berbasis website dengan menggunakan bahasa pemrograman HTML dan PHP. Diperlukan pula bahasa pemrograman CSS untuk mempercantik tampilan aplikasi. Penyimpanan data aplikasi ini menggunakan database MySQL dan akan diimplementasikan secara client-server.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.	
+Catur Wulandari, S.Kom., M.Sc.

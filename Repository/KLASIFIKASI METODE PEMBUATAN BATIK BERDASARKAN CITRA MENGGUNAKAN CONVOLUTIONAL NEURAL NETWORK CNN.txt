@@ -1,0 +1,10 @@
+KLASIFIKASI METODE PEMBUATAN BATIK BERDASARKAN CITRA MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN). Undergraduate thesis, Universitas Internasional Semen Indonesia.Fauzul Aziz, 3011610017 (2020)
+
+
+Abstract
+Batik adalah salah satu identitas budaya di Indonesia. Metode pembuatan batik beragam, yaitu seperti batik tulis, batik cap dan batik cetak. Convolutional Neural Network (CNN) adalah salah satu metode klasifikasi machine learning yang mampu untuk mendeteksi dan mengenali informasi prediktif dari suatu objek. Penelitian ini bertujan untuk mengetahui penerapan Convolutional Neural Network (CNN) dalam mengklasifikasi batik berdasarkan metode pembuatannya, yaitu batik tulis, batik cap dan batik cetak. Penulis menggunakan dataset gambar batik sebanyak 1500 gambar, yang di pre-processing menjadi 3 jenis ukuran gambar dataset, yaitu dataset dengan ukuran gambar 64x64 pixel, 128x128 pixel, dan 256x256 pixel. Kemudian memproses gambar batik meggunakan deep learning, yaitu model Convolutional Neural Network (CNN) yang telah banyak digunakan untuk penelitian klasifikasi citra. Penggunaan arsitektur densenet169 dalam penelitian ini menghasilkan akurasi klasifikasi sebesar 77.33%. Hasil tersebut merupakan akurasi tertinggi dari arsitektur lainnya. Oleh karena itu program prediksi jenis batik dibangun dengan menggunakan arsitektur densenet169.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc.	
+Doni Setio Pambudi, S.Kom., M.Kom.

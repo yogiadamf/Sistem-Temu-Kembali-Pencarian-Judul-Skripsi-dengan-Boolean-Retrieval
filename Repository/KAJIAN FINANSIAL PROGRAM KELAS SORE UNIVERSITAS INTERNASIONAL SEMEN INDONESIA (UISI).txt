@@ -1,0 +1,10 @@
+KAJIAN FINANSIAL PROGRAM KELAS SORE UNIVERSITAS INTERNASIONAL SEMEN INDONESIA (UISI). Undergraduate thesis, Universitas Internasional Semen Indonesia.Oldy Via Febriana Sarasati, 2011610030 (2020) 
+
+
+Abstract
+Universitas Internasional Semen Indonesia (UISI) adalah sebuah Perguruan Tinggi swasta di kota Gresik yang berdiri dibawah naungan Semen Indonesia dengan mempunyai 10 program studi. Gresik yang di kenal sebagai kota industri, terdapat 603 industri dengan jumlah tenaga kerja laki-laki 60.310 orang dan tenaga keja perempuan 33.632 orang (BPS Kabupaten Gresik. 2018). Hal ini menjadikan UISI memiliki peluang besar dengan membuka kelas sore yang dapat memberikan akses pada karyawan Gresik dan sekitarnya untuk melanjutkan studi sarjana. Adanya Universitas Gresik dan Universitas Muhammadiyah Gresik yang mempunyai program kelas karyawan dengan peminatan yang cukup tinggi sehingga dijadikan benchmarking guna mengetahui skema pembayaran, biaya SPP mahasiswa. Dalam penelitian ini, dilakukan Analisa finansial dimulai dari perhitungan SPP, BEP, dan Analisa kelayakan dengan menghitung NPV, PP, IRR. Hasil penelitian dengan simulasi pembukaan 5 prodi dalam kelas sore, didapatkan BEP minimal 13 jumlah mahasiswa per kelas dengan harga SPP Rp.6.500.000, perhitungan harga SPP bisa didapatkan dari analisa UMR daerah yaitu didapatkan SPP dengan range harga sebesar Rp.5.500.000 – Rp.6.500.000. Selanjutnya dilakukan perhitungan kelayakan finansial untuk menunjukkan kelayakan program kelas sore di UISI dari segi finansial yaitu dengan nilai NPV Rp. 3.425.468.956, IRR 156,35%, dan Payback Period selama 9 bulan untuk pendapatan dari SPP. Dari hasil tersebut telah dilakukan analisa sensitivitas menggunakkan parameter nilai NPV terhadap suku bunga, dan didapatkan hasil dengan mengubah nilai suku bunga hingga 14% tetap menunjukan proyek layak dilaksanakan. Hasil ini dapat memberikan masukan untuk manajemen UISI bahwa pembukaan program kelas sore layak secara finansial.
+
+
+Dosen Pembimbing
+Kuntum Khoiro Ummatin, S.T., M.T.
+Muhammad Akbar, S.E., M.Acc., Ak.	

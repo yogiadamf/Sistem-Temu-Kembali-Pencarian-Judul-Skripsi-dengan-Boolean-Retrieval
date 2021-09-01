@@ -1,0 +1,11 @@
+PEMANTAUANDAN KONTROL PERANGKAT PADA RUANG KELAS MENGGUNAKAN WEBSITE BERBASIS INTERNET OF THINGS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Alby Segmansyah, 3011510005 (2019)
+
+
+Abstract
+Pada kampus UISI terdapat banyak ruang kelas yang setiap waktu digunakan untuk belajar mengajar. Disetiap ruang kelas tersebut terdapat perangkat elektronik untuk membantu kegiatan belajar mengajar seperti proyektor, lampu, dan pendingin udara. Terkadang petugas dan mahasiswa lupa untuk mematikan peralatan kelas ketika kelas telah berakhir. Hal ini menyebabkan pengeluaran energi listrik yang sia-sia.Berdasarkan masalah tersebut, maka pada penelitian ini akan dibuat purwarupa monitor dan kontrol perangkat elektronik pada suatu ruang kelas menggunakan Wemos D1 dan sensor yang dapat di monitor dan dikontrol melalui aplikasi web.Aplikasi web akan memberikan informasi kondisi perangkat elektronik pada ruang kelas, supaya tidak ada penggunaan energi listrik yang sia-sia dan seharusnya tidak diperlukan. Berdasarkan hasil dari pengujian diperoleh kesimpulan bahwa monitor dan kontrol perangkat pada ruang kelas sudah dapat dilakukan dengan menggunakan sistem monitor dan kontrol melalui website secara realtime. Website sistem monitor dan kontrol yang sudah dibuat dapat menampilkan suhu ruangan, kelembapan ruangan, kondisi lampu, kondisi proyektor, kondisi pendingin udara, dan mendeteksi pergerakan. Alat yang digunakan pada sistem monitor dan kontrol adalah sensor LDR, sensor DHT11, sensor RCWL-0516, microcontrollerWemos D1, dan relay. Berdasarkan hasil pengujian sistem monitoring dan kontrol masih terdapat delay dan batas jarak. Pada pengiriman data sensor ke website terdapat delayrata-rata 3 sampai 4 detik, untuk pengujian kontrol otomatis dan kontrol manual terdapat delay rata-rata 4 detik, dan untuk pengujian sensor RCWL-0516 dan IR Transmitter, masing-masing memiliki batas jarak yaitu 5,4 meter pada sensor RCWL-0516 dan 2,4 meter pada IR Transmitter.
+
+
+Dosen Pembimbing
+Yohanes Indra Riskajaya, S.Kom., M.Kom.	
+Doni Setio Pambudi, S.Kom., M.Kom.
+Taufiqotul Bariyah, S.Kom., M.IM.

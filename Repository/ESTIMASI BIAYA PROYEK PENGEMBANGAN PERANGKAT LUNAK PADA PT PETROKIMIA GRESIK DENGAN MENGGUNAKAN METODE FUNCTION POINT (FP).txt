@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PROYEK PENGEMBANGAN PERANGKAT LUNAK PADA PT PETROKIMIA GRESIK DENGAN MENGGUNAKAN METODE FUNCTION POINT (FP). Undergraduate thesis, Universitas Internasional Semen Indonesia.Desinta Ayudia Wanda Putri, 3021610013 (2020)
+
+
+Abstract
+Sebuah proyek estimasi perangkat lunak Enterprise Resource Planning (ERP) dilakukan agar pengalokasian dana yang dimiliki tidak mengakibatkan underestimate atau over-estimate. Under-estimate terjadi karena kurangnya pengalokasian sumber daya sehingga dapat berpotensi kegagalan proyek sedangkan Over-estimate terjadi karena pengalokasian sumber daya yang berlebihan. Analisis perkiraan biaya nantinya akan didasarkan pada penghitungan Function Points (FP), Penelitian menjelaskan pembagian lingkup kerja perangkat lunak Medical Check-Up Petrokimia Gresik (MCUPG) dan perangkat lunak Monitoring Tagihan (MONITA) pada perusahaan PT Petrokimia Gresik. Tahap penelitihan dimulai dengan tahap studi literatur,analisis tahapan metode Fuction Points memuat kuesioner, wawancara ke stakeholder, analisis data dan perhitungan, konversi effort estimasi biaya. Pada perhitungan matematika pada perangkat lunak Medical Check-up Petrokimia Gresik (MCUPG) menggunakan metode Function Points (FP) menghasilkan estimasi effort sejumlah 1.725,68 orang/jam dan total biaya sebesar 87.078.195,56, Sedangkan pada perangkat lunak Monitoring Tagihan (MONITA) menghasilkan estimasi effort sejumlah 1.792,66 orang/jam dan total biaya sebesar 90.457.909. Analisis perbandingan antara metode Function Points (FP) pada perangkat lunak Medical Check-up Petrokimia Gresik (MCUPG) dan Monitoring Tagihan (MONITA) dapat menjadi bahan pertimbangan PT Petrokimia Gresik dalam menyelesaikan masalah untuk memperkembangkan perangkat lunak.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.

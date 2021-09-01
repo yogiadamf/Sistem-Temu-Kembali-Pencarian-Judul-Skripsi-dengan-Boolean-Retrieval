@@ -1,0 +1,10 @@
+RANCANG BANGUN APLIKASI PANGKALAN DATA CIVITAS AKADEMIKA UNIVERSITAS INTERNASIONAL SEMEN INDONESIA BERBASIS LAYANAN API. Undergraduate thesis, Universitas Internasional Semen Indonesia.Rifqi Ramadhani Almassar, 3011610047 (2020)
+
+
+Abstract
+Data civitas akademika merupakan salah satu aset penting di Universitas Internasional Semen Indonesia (UISI). UISI harus mengelola data civitas akademika termasuk pegawai yang didalamnya terdapat dosen, staf, dan terbagi lagi menjadi pegawai tetap dan tidak tetap. Saat ini dalam menyimpan data pegawai semua dilakukan dengan menggunakan spreadsheet, sehingga membutuhkan waktu yang lama dan data tidak dapat terintegrasi dengan direktorat lainnya. Pembuatan pangkalan data dapat menjadi solusi untuk memudahkan integrasi data antar sistem dan mengefisienkan waktu yang dibutuhkan dalam mengolah data. Untuk itu penulis mengembangkan aplikasi pangkalan data civitas akademika berbasis layanan Application Programming Interface (API) yang disesuaikan dengan kebutuhan UISI. Pembuatan sistem ini menggunakan metode waterfall sehingga dapat terdokumentasi. Sistem ini akan menyimpan data civitas, mutasi civitas, dan dalam kasus ini akan digunakan untuk penyimpanan data pegawai dimana model pangkalan data ini dapat digunakan juga untuk civitas mahasiswa. Pengujian sistem menggunakan metode blackbox. Hasil dari pengujian blackbox bahwa untuk API dapat berjalan sesuai dengan website dan proses bisnis Sumber Daya Manusia (SDM) Universitas Internasional Semen Indonesia. API ini dapat digunakan untuk pangkalan data pegawai dan mahasiswa. Hasil dari pengujian menunjukan bahwa untuk setiap operasi dalam API mendapatkan waktu respon rata-rata 668,21 milisecond.
+
+
+Dosen Pembimbing
+Ruktin Handayani, S.Kom., M.Kom.
+Yohanes Indra Riskajaya, S.Kom., M.Kom.

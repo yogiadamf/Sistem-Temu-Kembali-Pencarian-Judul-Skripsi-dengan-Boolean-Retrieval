@@ -1,0 +1,8 @@
+PENERAPAN DOKUMEN BUSINESS CONTINUITY PLAN PADA PT. BANK PEMBIAYAAN RAKYAT SYARIAH (BPRS) LANTABUR TEBUIRENG, JOMBANG, CABANG GRESIK MENGGUNAKAN ISO 22301. Undergraduate thesis, Universitas Internasional Semen Indonesia.Ade Vicky Prihimawan, 3021610002 (2020)
+
+
+Abstract
+Teknologi informasi memiliki peranan yang sangat berpengaruh penting untuk kemajuan sistem informasi bagi suatu organisasi atau perusahaan. Akan tetapi dalam perkembangan teknologi informasi ini tidak bisa dipungkiri bahwa nantinya akan terjadi ancaman atau gangguan yang terjadi pada proses bisnis berlangsung. Ancaman atau gangguan yang terjadi bisa menimbulkan masalah yang serius sehingga dapat menghambat berjalannya proses bisnis perusahaan nantinya. Sehingga penerapan manajemen risiko teknologi informasi (TI) berguna untuk mengetahui risiko-risiko dan mengurangi atau menimalisir dampak dari ancaman atau gangguan pada sistem informasi perusahaan. Akan tetapi perusahaan juga harus mempunyai perencanaan keberlangsungan bisnis atau yang biasa kita sebut Business Continuity Plan (BCP). Dengan adanya BCP ini perusahaan akan mendapatkan sebuah jaminan yang nantinya perusahaan tersebut bisa menghadapi dan menghindari ancaman atau gangguan yang akan muncul suatu saat nanti. Perancangan BCP ini nantinya akan menyesuaikan dengan kebutuhan dari PT. BPRS Lantabur Tebuireng dan menggunakan kerangka kerja ISO 22301:2012. Metode yang dilakukan untuk memperoleh data pada penelitian ini adalah wawancara, observasi dan analisis dokumen terkait. Sehingga penelitian ini akan menghasilkan sebuah rancangan BCP yang sudah terverifikasi dan tervalidasi oleh PT. BPRS Lantabur Tebuireng.
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom.,

@@ -1,0 +1,10 @@
+PERANCANGAN USER EXPERIENCE SISTEM PEMBAYARAN DAN PERIZINAN PONDOK PESANTREN ROUDLOTUL QUR'AN LAMONGAN. Undergraduate thesis, Universitas Internasional Semen Indonesia.Waris Muhibah, 3011610052 (2020)
+
+
+Abstract
+Pembuatan perangkat lunak harus memperhatikan kemudahan-kemudahan pengguna. Dalam memenuhi aspek kemudahan bagi pengguna dilakukan dengan cara membuat desain yang memenuhi prinsip-prinsip user experience. Pondok pesantren Roudlotul Qur’an Lamongan memiliki sistem informasi berbasis desktop yang telah dilakukan tiga kali perbaikan namun pengguna meninggalkan aplikasi tersebut. Aplikasi yang sudah ada ditinggalkan pengguna karena pengguna merasa kesulitan dalam pengoprasian aplikasi. Penelitian ini melakukan desain ulang aplikasi dengan fitur yang sudah ada dan melakukan analisis pada user experience dengan melakukan perancangan ulang pada desain dengan menggunakan metode user centered design (UCD). Penelitian ini dilakukan dengan melakukan analisa kebutuhan pengguna dan merealisasikan pada bentuk desain yang berpusat pada pengguna dengan melakukan iterasi evaluasi desain. Hasil akhir penelitian ini berbentuk prototipe desain yang telah diukur menggunakan metode system usability scale (SUS) dan user experience questionnaire (UEQ) dengan nilai akhir SUS 80 dan UEQ yang memenuhi standar penilaian.
+
+
+Dosen Pembimbing
+Ruktin Handayani, S.Kom., M.Kom
+Doni Setio Pembudi, S.Kom., M.Kom

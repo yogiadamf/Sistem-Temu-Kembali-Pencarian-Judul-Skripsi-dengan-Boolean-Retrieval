@@ -1,0 +1,9 @@
+ESTIMASI BIAYA PENGEMBANGAN PERANGKAT LUNAK INLIS LITE 3.0 MENGGUNAKAN METODE FUNCTION POINTS DAN USE CASE POINTS. Undergraduate thesis, Universitas Internasional Semen Indonesia.Fatimah Chibbatullah, 3021610022 (2020)
+
+
+Abstract
+Dalam mengerjakan suatu proyek perangkat lunak keberhasilan proyek harus dimulai dengan perencanaan yang benar, jika perencanan salah maka akan menyebabkan kegagalan dan akan terjadi pembengkakan biaya. Oleh karna itu diperlukan estimasi biaya yang tepat untuk meminimalisir resiko over-estimates dalam proyek perangkat lunak. Estimasi biaya pada penelitian ini menggunakan metode Function Points (FP) yang merupakan metode yang mengukur perangkat lunak dengan cara mengukur dari prespektif functional dari software yang akan dibangun. Terdapat 5 komponen untuk menghitung matrik Function Points(FP) yaitu External Input (EI), External Output (EO), External Inquiry (EI), Internal Logical File (ILF), External File (EIF). Dan juga menggunakan metode Use Case Points (UCP) merupakan Teknik estimasi biaya perangkat lunak yang digunakan untuk memperkirakan ukuran perangkat yang dikembangkan. Dari perhitungan estimasi biaya pengembangan perangkat lunak Inlis Lite 3.0 menggunakan dua metode tersebut menghasilkan effort untuk function points sebesar 16.015,58 dan uce case points sebesar 6.876,91.
+
+
+Dosen Pembimbing
+Renny Sari Dewi, S.Kom., M.Kom.

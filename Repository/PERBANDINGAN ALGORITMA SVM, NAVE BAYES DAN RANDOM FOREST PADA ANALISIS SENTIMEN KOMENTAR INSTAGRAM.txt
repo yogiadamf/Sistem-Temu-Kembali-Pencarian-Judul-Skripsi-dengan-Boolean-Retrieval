@@ -1,0 +1,10 @@
+PERBANDINGAN ALGORITMA SVM, NAÏVE BAYES DAN RANDOM FOREST PADA ANALISIS SENTIMEN KOMENTAR INSTAGRAM DENGAN STUDI KASUS ‘CYBERBULLYING’. Undergraduate thesis, Universitas Internasional Semen Indonesia.Monica Fachrita Ruziqiana, 3011610028 (2020)
+
+
+Abstract
+Di era yang semakin maju, media sosial juga semakin berkembang salah satunya yaitu media Instagram. Menurut survei yang dilakukan oleh Ditch The Label pada tahun 2017 kepada 10.020 siswa berusia antara 12 sampai 20 tahun, pengguna aktif Instagram telah mencapai 78% atau sama dengan 7816 dari total siswa. Sayangnya masih banyak pengguna yang tidak bijak dalam bersosialisasi melalui Instagram. Dari permasalahan tersebut timbul lah Cyberbullying. Cyberbullying memberikan dampak buruk terhadap korbannya sehingga harus segera ditangani. Tujuan dari penelitian ini yaitu mengklasifikasi sentimen pada komen instagram berdasarkan kelas negatif, positif maupun netral sehingga dapat meminimalisi Cyberbullying di media Instagram. Algoritma yang digunakan dalam penelitian ini adalah SVM, Naïve Bayes dan Random Forest. Dalam proses pengujian algoritma SVM dan Random Forest juga menggunakan grid search untuk mencari parameter tuning sehingga dapat meningkatkan performa tiap algoritma. Dari proses pengujian menghasilkan nilai akurasi yang berbeda-beda yaitu Naïve Bayes dengan nilai akurasi sebesar 75.47%, SVM sebesar 75.47%, Random Forest sebesar 69.88%, SVM dengan parameter tuning sebesar 97.79% dan Random Forest dengan parameter tuning sebesar 66.51%. Sehingga dapat disimpulkan bahwa algoritma SVM dengan parameter tuning merupakan algoritma yang paling cocok dalam penelitian ini karena mendapatkan hasil performa paling tinggi.
+
+
+Dosen Pembimbing
+Lailatul Hidayah, S.Kom., M.S.
+Mohammad Arif Rasyidi, S.Kom., M.Sc.

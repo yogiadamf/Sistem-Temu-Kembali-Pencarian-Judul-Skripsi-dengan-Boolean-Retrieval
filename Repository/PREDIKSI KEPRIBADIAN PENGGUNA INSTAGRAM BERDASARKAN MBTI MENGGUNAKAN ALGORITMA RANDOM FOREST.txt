@@ -1,0 +1,9 @@
+PREDIKSI KEPRIBADIAN PENGGUNA INSTAGRAM BERDASARKAN MBTI MENGGUNAKAN ALGORITMA RANDOM FOREST. Undergraduate thesis, Universitas International Semen Indonesia.Edman Priyono S., 3011510021 (2021) 
+
+
+Abstract
+Pengetahuan tentang kepribadian seseorang dianggap penting karena kepribadian tersebut mempengaruhi tingkah laku dalam mengambil keputusan yang berdampak baik atau buruk. Dalam sebuah penelitian membuktikan bahwa kepribadian jugamempengaruhi gaya belajar seorang pelajar. Sosial media dapat menjelaskan kepribadian seseorang melalui visual seperti instagram. Instagram merupakan sosial media di mana pengguna dapat mengunggah gambar, foto dan video ke akun Instagram mereka dan membaginya dengan pengikut merekaatau grup teman. Dalampenelitian ini dilakukan klasifikasi kepribadian MBTI melalui image featuredan content-based featuremenggunakan algoritma Random Forestuntuk mahasiswaUniversitas International Semen Indonesia. Dengan mengolah 7,628 gambar dari 81 responden, nilai akurasi yang dihasilkan untuk klasifikasi Extroverts vs Introverts sebesar 64%, Sensing vs Intuition sebesar 52%, Thinking vs Feeling sebesar 59%, Judging vs Perceiving sebesar 61%.Serta featureyang digunakanternyata tidak sesuai dengan studi kasus dalam penelitian ini.
+
+
+Dosen Pembimbing
+Mohammad Arif Rasyidi, S.Kom., M.Sc., MCE

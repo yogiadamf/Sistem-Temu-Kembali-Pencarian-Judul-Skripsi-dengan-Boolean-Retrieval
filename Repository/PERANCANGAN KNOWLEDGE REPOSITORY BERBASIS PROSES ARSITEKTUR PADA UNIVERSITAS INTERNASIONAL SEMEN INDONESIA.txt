@@ -1,0 +1,9 @@
+PERANCANGAN KNOWLEDGE REPOSITORY BERBASIS PROSES ARSITEKTUR PADA UNIVERSITAS INTERNASIONAL SEMEN INDONESIA. Undergraduate thesis, Universitas Internasional Semen Indonesia.Intan Tika Hartiningrum, 3021610027 (2020)
+
+
+Abstract
+Universitas Internasional Semen Indonesia (UISI) telah mengeluarkan surat edaran (SE) tentang pelaksanaan evaluasi beban kerja dosen (BKD). SE tersebut sebagai acuan untuk menetapkan pelaksanaan BKD sesuai dengan UU dan peraturan yang telah mengatur mengenai standar pendidikan dan tentang dosen. Proses bisnis pada BKD telah berjalan sesuai dengan struktur BKD yang ada. Untuk melakukan analisis proses bisnis digunakan konsep BPM (Business Process Management), sehingga dapat mengetahui masalah apa saja yang menghambat proses bisnis BKD UISI. Masalah yang ada saat ini adalah pengelolaan data BKD masih bersifat manual yang menyebabkan kesulitan dalam pencarian data. Maka dari itu, diperlukan repository folder BKD yang berisi data tiap departemen dan tiap dosen dibawah pimpinan UISI dengan pembuatan suatu sistem menggunakan pendekatan knowledge management berbasis arsitektur dengan standar Bussines Process Modeling Notation (BPMN). Serta akan dibuatkan SOP atau panduan singkat agar pelaku proses bisnis dapat menjalankan proses bisnis BKD dengan baik. Knowledge management adalah sebuah konsep yang digunakan untuk mengelola pengetahuan, informasi, dan data layanan TI. Sedangkan standar BPMN adalah sebuah metodologi dalam memodelkan proses bisnis dan terdiri dari 1 diagram. Pemilihan pendekatan knowledge management didasarkan oleh konsep service transition, yaitu memodifikasi layanan sebelumnya dan metodologi arsitektur pemodelan berdasarkan BPMN didasarkan oleh kelebihan BPMN mengakomodir penyajian kebutuhan bisnis menjadi model proses bisnis yang dapat dengan mudah dijelaskan dan ditransformasikan.
+
+
+Dosen Pembimbing
+Yogantara Setya Dharmawan, S.Kom., MBusProcessMgt
